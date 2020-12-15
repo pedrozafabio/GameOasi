@@ -1,0 +1,62 @@
+.container {
+   width:100%;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+.container img {
+   width: 100%;
+}
+
+.container-child {
+   width: 80%;
+}
+
+.title {
+   text-align: left;   
+   font-family: Space Mono;
+font-style: normal;
+font-weight: bold;
+font-size: 80px;
+line-height: 0%;
+
+}
+
+.subtitle{
+   text-align: left;  
+   font-family: Space Mono;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 24px;
+   line-height: 0%;
+
+}
+
+.createdBy{
+   text-align: left;  
+
+   font-family: Space Mono;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 14px;
+}
+
+.credits {
+   font-family: Roboto;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 24px;
+   line-height: 28px;
+   text-align: center;
+}
+
+.p {
+   text-align: left;  
+
+   font-family: Roboto;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 18px;
+   line-height: 140%;
+}

@@ -1,0 +1,247 @@
+body {
+  background-color: white;
+}
+
+.main{
+  width: 100%;
+  height: 100%;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end; 
+}
+
+.btngroup {
+  z-index: 2;
+  padding-bottom: 3%;
+  width: 26%;
+  display: flex;
+  justify-content: space-around;
+  align-items:center;
+}
+
+.btngroup2 {
+  z-index: 2;
+  padding-bottom: 10px;
+  width: 32%;
+  display: flex;
+  justify-content: space-around;
+  align-items:center;  
+}
+
+
+.visible {
+  visibility: visible;
+  -webkit-animation-name: fadeIn;
+  -webkit-animation-duration: 0.3s;
+  animation-name: fadeIn;
+  animation-duration: 0.3s;
+}
+
+.invisible {
+  visibility: hidden;
+}
+
+
+.button2 {
+  height: 64px;
+  width: 64px;
+  color: black;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 100%;
+  box-shadow: 0px 3px 8px rgba(0,0,0,0.25);
+  background-color: white;
+  -webkit-transition: transform 0.35s;
+  transition:  transform 0.35s;
+  -webkit-transform: scale(1);
+  transform: scale(1);
+}
+
+
+.button2:hover{
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+}
+
+.button {
+  height: 64px;
+  width: 64px;
+  color: black;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 100%;
+  box-shadow: 0px 3px 8px rgba(0,0,0,0.25);
+  background-color: white;
+  -webkit-transition:background-color 0.35s, color 0.35s, transform 0.35s;
+  transition: background-color 0.35s, color 0.35s, transform 0.35s;
+  -webkit-transform: scale(1);
+  transform: scale(1);
+}
+
+
+.button:hover{
+  background-color: rgb(230, 230, 230);
+  color : white;
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+}
+
+.smallButton {
+  height: 40px;
+  width: 40px;
+  color: black;
+  font-size: 16px;
+  border-radius: 100%;
+  box-shadow: 0px 3px 8px rgba(0,0,0,0.25);
+  -webkit-transition:transform 0.35s;
+  transition: transform 0.35s;
+}
+
+.smallButton i {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size:16px;
+  color: black;
+  
+}
+
+.smallButton:hover{
+  -webkit-transform: scale(1.2);
+          transform: scale(1.2);
+}
+
+
+.button i {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size:22px;
+  
+  /*-webkit-transition: all 0.35s;
+  transition: all 0.35s; */
+}
+
+
+
+.button2 img {
+  height: 50%;
+  width: 50%;
+  padding: 25%;
+  
+  /*-webkit-transition: all 0.35s;
+  transition: all 0.35s; */
+}
+
+
+.selected {
+  background-color: rgb(230, 230, 230);
+  color : white;
+}
+
+.normal {
+  background-color: white;
+}
+
+
+input[type="button"]{
+  outline:none;
+  -webkit-appearance: none;
+}
+input[type="button"]::-moz-focus-inner {
+  border: 0;
+  -webkit-appearance: none;
+}
+
+/**
+ * Tooltip Styles
+ */
+
+/* Add this attribute to the element that needs a tooltip */
+[data-tooltip] {
+  position: relative;
+  z-index: 2;
+  cursor: pointer;
+}
+
+/* Hide the tooltip content by default */
+[data-tooltip]:before,
+[data-tooltip]:after {
+  visibility: hidden;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+  filter: progid: DXImageTransform.Microsoft.Alpha(Opacity=0);
+  opacity: 0;
+  pointer-events: none;
+}
+
+@-webkit-keyframes fadeIn { 
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+/* Position tooltip above the element */
+[data-tooltip]:before {
+  position: absolute;
+  bottom: 101%;
+  left: 50%;
+  margin-bottom: 5px;
+  margin-left: -31px;
+  padding: 6px;
+  width: 52px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  background-color: #000000;
+  color: #fff;
+  content: attr(data-tooltip);
+  text-align: center;
+  font-size: 18px;
+  line-height: 1.2;
+  
+}
+
+[data-tooltip]:hover {
+  animation-name: none!important;
+}
+
+/* Triangle hack to make tooltip look like a speech bubble */
+[data-tooltip]:after {
+  position: absolute;
+  bottom: 101%;
+  left: 50%;
+  margin-left: -5px;
+  width: 0;
+  border-top: 5px solid #000;
+  border-top: 5px solid #000;
+  border-right: 5px solid transparent;
+  border-left: 5px solid transparent;
+  content: " ";
+  font-size: 0;
+  line-height: 0;
+  
+}
+
+/* Show tooltip content on hover */
+[data-tooltip]:hover:before,
+[data-tooltip]:hover:after {
+  visibility: visible;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+  filter: progid: DXImageTransform.Microsoft.Alpha(Opacity=100);
+  opacity: 1;
+
+  -webkit-animation-name: fadeIn;
+  -webkit-animation-duration: 0.3s;
+  animation-name: fadeIn;
+  animation-duration: 0.3s;
+}

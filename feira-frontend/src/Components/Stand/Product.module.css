@@ -1,0 +1,40 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    justify-content: space-between;
+    font-family: Roboto;
+}
+
+.container img {
+    max-height: 250px;
+    height: 75%;
+    border-radius: 10px;
+    object-fit: contain;
+}
+
+.title{
+    padding-top: 20px;
+    width: 100%;
+    text-align: left;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.description{
+    padding-top: 20px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    text-align: left;
+}
+
+.price{
+    padding-top: 20px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    text-align: left;
+}

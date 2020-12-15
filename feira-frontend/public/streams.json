@@ -1,0 +1,22 @@
+{
+    "1" : {
+        "Screen" : "afetese",
+        "Type" : "twitch",
+        "Playlist" : 0 
+    },
+    "2":{
+        "Screen" : "animarsbr",
+        "Type" : "twitch",
+        "Playlist" : 0 
+    },
+    "3": {
+        "Screen" : "festicalconvida",
+        "Type" : "twitch",
+        "Playlist" : 0 
+    },
+    "4": {
+        "Screen" : "oasivc",
+        "Type" : "twitch",
+        "Playlist" : 0 
+    }
+}

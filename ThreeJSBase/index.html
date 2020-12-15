@@ -1,0 +1,41 @@
+<html>
+<head>
+	<title>My first three.js app</title>
+	<style>
+		body {
+			margin: 0;
+		}
+
+		canvas {
+			display: block;
+		}
+
+		@font-face {
+    font-family: 'Haettenschweiler';
+    src: local('Haettenschweiler'), url(./fonts/Haettenschweiler-Regular.ttf) format('truetype');
+  }
+	</style>
+
+	<script type="text/javascript"
+			src="https://cdnjs.cloudflare.com/ajax/libs/systemjs/0.20.13/system.js">
+	</script>
+	<script type="text/javascript" src="src/photon/Photon-Javascript_SDK.js"></script>
+	
+	<script src="modules/three.js" crossorigin="anonymous"></script>
+    <script src="modules/three.proton.js" crossorigin="anonymous"></script>
+
+	<script>var exports = {};</script>
+
+	<link href="styles/main.css" rel="stylesheet" type="text/css">
+</head>
+	<body>
+		<div id="scene-container-css"></div>
+		<div id="scene-container"></div>
+		<img id="canvas-image">
+		</div>
+	</body>
+	
+	<footer>
+		<script src="entry.js" type="module"></script>
+	</footer>
+</html>

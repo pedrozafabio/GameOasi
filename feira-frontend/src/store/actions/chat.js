@@ -1,0 +1,1 @@
+const SET_MAIN_CHAT = 'SET_MAIN_CHAT';

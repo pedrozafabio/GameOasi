@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "ES6",
+    "outDir": "./build/",
+    "listFiles": true,
+    "allowJs": true,
+    "baseUrl": ".",
+    "moduleResolution": "node",
+    "paths": {
+      "../node_modules/three/src/*" : ["node_modules/three/src/*"],
+      "../node_modules/three/examples/jsm/*" : ["node_modules/three/examples/jsm/*"]
+    }
+  },
+  "compileOnSave": true,
+  "include": [
+    "./node_modules/three/**/*.ts",
+    "./src/**/*.ts",
+    "./src/photon/**/*.ts",
+    "./src/shaders/**/*.ts"
+  ],
+  "exclude": [
+    "./node_modules"
+  ]
+}

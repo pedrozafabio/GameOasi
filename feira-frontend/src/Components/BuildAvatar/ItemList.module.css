@@ -1,0 +1,22 @@
+
+
+.itens{
+    width: 96%;
+    height: 95%;
+    background-color: rgba(64,64,64);
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+
+.itens::-webkit-scrollbar {
+    width: 8px;
+  }
+.itens::-webkit-scrollbar-track {
+    background: rgba(64,64,64);
+  }
+.itens::-webkit-scrollbar-thumb {
+    background-color:   rgba(217,173,255);
+    border-radius: 20px;
+}

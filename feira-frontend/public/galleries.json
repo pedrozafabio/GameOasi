@@ -1,0 +1,87 @@
+{
+    "1": {
+        "model": "models/galeria/galeria_convida.glb",
+        "links": {
+            "screen01": {
+                "name": "Moara",
+                "type" : "video",
+                "host": "youtube",
+                "videoTag": "KQr2fVpaRpA",
+                "thumbnail": "https://i.imgur.com/9cajSG3.jpg",
+                "Playlist": 0
+            },
+            "screen02": {
+                "name": "Srta V",
+                "type" : "video",
+                "host": "youtube",
+                "videoTag": "i-ZCyt5HJmI",
+                "thumbnail": "https://i.imgur.com/AjnnRlw.jpg",
+                "Playlist": 0
+            },
+            "screen03": {
+                "name": "João Pedreira",
+                "type" : "video",
+                "host": "youtube",
+                "videoTag": "kHzVQGWaAYc",
+                "thumbnail": "https://i.imgur.com/a75fUna.jpg",
+                "Playlist": 0
+            },
+            "screen04": {
+                "name": "Lídia Dallet",
+                "type" : "video",
+                "host": "youtube",
+                "videoTag": "ZSvLsr5tRYE",
+                "thumbnail": "https://i.imgur.com/B6brw50.jpg",
+                "Playlist": 0
+            },
+            "screen05": {
+                "name": "Mickael Pederiva",
+                "type": "video",
+                "host": "youtube",
+                "videoTag": "f9APkkQ8uC0",
+                "thumbnail": "https://i.imgur.com/rUhMISk.jpg",
+                "Playlist": 0
+            },
+            "screen06": {
+                "name": "Mar Nóbrega e Tulaci Martins",
+                "type" : "video",
+                "host": "youtube",
+                "videoTag": "WR59EgjHlmA",
+                "thumbnail": "https://i.imgur.com/gdbSEc9.jpg",
+                "Playlist": 0
+            },
+            "screen07": {
+                "name": "Beatriz Águida",
+                "type" : "video",
+                "host": "youtube",
+                "videoTag": "37mBpKI2BHk",
+                "thumbnail": "https://i.imgur.com/ZWa1wmd.jpg",
+                "Playlist": 0
+            },
+            "screen08": {
+                "name": "Ju e os Ipês",
+                "type" : "video",
+                "host": "youtube",
+                "videoTag": "JpAObkUpDOI",
+                "thumbnail": "https://i.imgur.com/tz5lBFN.jpg",
+                "Playlist": 0
+            },
+            "screen09": {
+                "name": "Duo Umbê",
+                "type" : "video",
+                "host": "youtube",
+                "videoTag": "qiDdXODTt5o",
+                "thumbnail": "https://i.imgur.com/1ldC0fc.jpg",
+                "Playlist": 0
+            },
+            "screen10": {
+                "name": "Chamegadu´o",
+                "type" : "video",
+                "host": "youtube",
+                "videoTag": "UhWl-ZU6kbE",
+                "thumbnail": "https://i.imgur.com/BiW2X1H.jpg",
+                "Playlist": 0
+            }
+        }
+    }
+}

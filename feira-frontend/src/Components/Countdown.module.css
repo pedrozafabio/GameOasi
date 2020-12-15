@@ -1,0 +1,49 @@
+.card-main{
+    position: relative;
+    color: white;  
+    width: 100%;
+    height: 33%;
+ }
+ 
+ .card-background{
+    position: absolute;   
+    width: 100%;
+    height: 100%;   
+    background-size: 100% 100%;
+    box-shadow: inset 0 0 5px 20px #000000;  
+
+    mask-repeat: no-repeat;
+ }
+ 
+
+ .container-infos{
+     color: black;
+     font-weight: bold;
+    padding-left: 10%;
+    font-size: 64px;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+ }
+ 
+ .logo{
+    height: 80%;
+ }
+ 
+ .title {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+ }
+ 
+ .subtitle{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+ }

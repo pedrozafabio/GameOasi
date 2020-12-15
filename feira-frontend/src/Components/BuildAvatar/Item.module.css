@@ -1,0 +1,64 @@
+.ItemContainer {
+    width: 10vw;
+    height: 26vh;
+    margin: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+
+}
+
+.Item {
+    width: 95%;
+    height: 95%;
+    background-color: rgba(181,112,242);
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.ImageContainer {
+    height: 55%;
+    width: 90%;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.Image2{
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.Image{
+    border-radius: 10px;
+    width: 95%;
+    height: 95%;
+    background-color: red;
+}
+
+.ValueContainer{
+    margin-top: 5%;
+    width: 90%;
+    border-radius: 10px;
+    background-color: rgba(0,0,0,0.2);
+    
+    color: white;
+    font-family: 'Roboto';
+
+}
+
+
+.valueString 
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Roboto';
+}

@@ -1,0 +1,2377 @@
+{
+	"Stand1": {
+		"nome": "Torteria Uai",
+		"linkMainArt": "https://imgur.com/P2Yx55r.png",
+		"linkLogo": "https://imgur.com/8V652gJ.png",
+		"site": "https://www.chefbrunaluiza.com/",
+		"instagram": "https://www.instagram.com/torteriauai/",
+		"celular": "https://api.whatsapp.com/send?phone=5561982911653",
+		"tipoProduto": "",
+		"descricao": "Somos uma confeitaria artesanal especializada em cheesecakes e chocolates. Nos inspiramos em doces internacionais e utilizamos ingredientes brasileiros.",
+		"linkYoutube": null,
+		"catalogo": [
+			{
+				"nomeProduto": "Cheesecake de Morango",
+				"tipoProduto": "Alimentação",
+				"valor": 15.0,
+				"descricao": "Deliciosa torta com base de biscoito crocante, creme clássico de cheesecake e cobertura de geleia de morango caseira",
+				"detalhes": "Fatia de aproximadamente 160g",
+				"foto": "https://imgur.com/vVJfjYG.png"
+			},
+			{
+				"nomeProduto": "Cheesecake de Frutas vermelhas",
+				"tipoProduto": "Alimentação",
+				"valor": 15.0,
+				"descricao": "Deliciosa torta com base de biscoito crocante, creme clássico de cheesecake e cobertura de geleia de morango e amora caseira",
+				"detalhes": "Fatia de aproximadamente 160g ",
+				"foto": "https://imgur.com/AdhpcGz.png"
+			},
+			{
+				"nomeProduto": "Cheesecake de goiabada",
+				"tipoProduto": "Alimentação",
+				"valor": "15",
+				"descricao": "Deliciosa torta com base de biscoito crocante, creme clássico de cheesecake e cobertura de geleia de goiabada caseira",
+				"detalhes": "Fatia de aproximadamente 150g ",
+				"foto": "https://imgur.com/lMIVRJf.png"
+			},
+			{
+				"nomeProduto": "Cheesecake de Brownie com doce de leite",
+				"tipoProduto": "Alimentação",
+				"valor": "16",
+				"descricao": "Deliciosa torta com base de Brownie molhadinho, creme clássico de cheesecake e cobertura de doce de leite cremoso",
+				"detalhes": "Fatia de aproximadamente 180g",
+				"foto": "https://imgur.com/8yJmdLx.png"
+			},
+			{
+				"nomeProduto": "Bombons de chocolate belga",
+				"tipoProduto": "Alimentação",
+				"valor": "40",
+				"descricao": "Linda caixa de presente com 12 bombons de chocolate belga pintados à mão, sabores: Nutella com oreo, ganache ao rum e macchiato.",
+				"detalhes": "Chocolate belga Callebaut",
+				"foto": "https://imgur.com/k6tPrnb.png"
+			},
+			{
+				"nomeProduto": "Bombons coloridos personalizados",
+				"tipoProduto": "Alimentação",
+				"valor": 2.5,
+				"descricao": "Personalize as cores e formatos do se bombom de acordo com o seu evento.",
+				"detalhes": "Encomendas a partir de 50 unidades",
+				"foto": "https://imgur.com/l18MPqZ.png"
+			},
+			{
+				"nomeProduto": "Chocotone de Doce de leite e nozes",
+				"tipoProduto": "Alimentação",
+				"valor": 50.0,
+				"descricao": "Delicioso chocotone de produção artesanal trufado com doce de leite cremoso e nozes caramelizadas",
+				"detalhes": "aproximadamente 750g",
+				"foto": "https://imgur.com/lOssc6d.png"
+			},
+			{
+				"nomeProduto": "Chocotone de Ninho e Nutela",
+				"tipoProduto": "Alimentação",
+				"valor": 60.0,
+				"descricao": "Delicioso chocotone de produção artesanal trufado brigadeiro de leite ninho e nutela, com cobertura de brigadeiros e chocolate meio amargo",
+				"detalhes": "Aproximadamente 750g",
+				"foto": "https://imgur.com/aozfPZF.png"
+			},
+			{
+				"nomeProduto": "Cheesecake de cerejas",
+				"tipoProduto": "Alimentação",
+				"valor": "16",
+				"descricao": "Deliciosa torta com base de biscoito crocante, creme clássico de cheesecake e cobertura de cerejas em calda",
+				"detalhes": "Aproximadamente 140g",
+				"foto": "https://imgur.com/lmaKGrz.png"
+			},
+			{
+				"nomeProduto": "Bolo Red Velvet",
+				"tipoProduto": "Alimentação",
+				"valor": "60",
+				"descricao": "Torta Red Velvet clássica com massa vermelha, recheio a base de creamcheese e limão siciliano decorada com morangos frescos",
+				"detalhes": "O preço da torta é de acordo com o kg.",
+				"foto": "https://imgur.com/d9hsHEF.png"
+			}
+		],
+		"vendedor": "Torteriauai1Brunaluiza",
+		"formasDePagamento": "Cartão débito, crédito, transferência e dinheiro"
+	},
+	"Stand2": {
+		"nome": "EcoJornada",
+		"linkMainArt": "https://imgur.com/c18YQzV.png",
+		"linkLogo": "https://imgur.com/LNND6Vd.png",
+		"site": "https://www.ecojornada.com.br",
+		"instagram": "https://www.instagram.com/ecojornada/",
+		"celular": "https://api.whatsapp.com/send?phone=5561982201889",
+		"tipoProduto": "",
+		"descricao": "A EcoJornada nasceu de uma vontade profunda de promover as conexões homem-homem e homem-meio ambiente para que juntos conquistamos o tão sonhado “bem estar”. E para isso acontecer, atuamos com: a aproximação das pessoas aos produtos ecológicos e sustentáveis; mentorias e autoconhecimento para estilo de vida sustentável; assessorias, palestras e treinamentos com foco em neurociência comportamental aplicada à sustentabilidade; e Consultoria para Certificação Lixo Zero. Atuamos com feiras e entregas pois o contato com as pessoas é o que nos move.\nTrabalhamos com um diverso catálogo de produtos além dos mostrados aqui no evento. Caso procure um produto específico, consulte-nos no chat.",
+		"linkYoutube": null,
+		"catalogo": [
+			{
+				"nomeProduto": "Copo de silicone retrátil de 200mL",
+				"tipoProduto": "Produto ecológico",
+				"valor": 30.0,
+				"descricao": "São uma ótima alternativa para evitar os copos descartáveis. Podem ir no microondas, freezer e lava louças. Livres de BPA. Disponível nas cores: azul clara, verde limão, pink, vermelho, laranja e preto.\nCores edição limitada: verde bandeira, roxo, coral.\nContém tampa sem bocal.\nVolume 200mL.\nPodem ser pendurados na bolsa/mochila ou em tirantes de pescoço.\nMarca: Silicup",
+				"detalhes": "1 (um) Copo de silicone reutilizável e retrátil de 200ml com tampa",
+				"foto": "https://imgur.com/tEakLbr.png"
+			},
+			{
+				"nomeProduto": "Copo de silicone retrátil de 480mL",
+				"tipoProduto": "Produto ecológico",
+				"valor": 55.0,
+				"descricao": "São uma ótima alternativa para evitar os copos descartáveis. Podem ir no microondas, freezer e lava louças. Livres de BPA. Disponível nas cores: azul clara, verde limão, pink, vermelho, laranja e preto.\nCores edição limitada: verde bandeira, roxo, coral.\nContém tampa com bocal.\nVolume 480mL.\nPodem ser pendurados na bolsa/mochila ou em tirantes de pescoço.\nMarca: Silicup",
+				"detalhes": "1 (um) Copo de silicone reutilizável e retrátil de 480ml com tampa",
+				"foto": "https://imgur.com/rkaNkhZ.png"
+			},
+			{
+				"nomeProduto": "Garrafa de silicone retrátil de 400mL",
+				"tipoProduto": "Produto ecológico",
+				"valor": "60.00",
+				"descricao": "São uma ótima alternativa para evitar os descartáveis. Podem ir no microondas, freezer e lava louças. Livres de BPA. Disponível nas cores: azul clara, verde limão, pink, vermelho, laranja e preto.\nContém tampa com bocal e alça. O bocal contém furos que funcionam como filtro.\nVolume 400mL.\nPodem ser pendurados na bolsa/mochila ou em tirantes de pescoço.\nMarca: Silicup",
+				"detalhes": "1 (uma) Garrafa de silicone reutilizável e retrátil.",
+				"foto": "https://imgur.com/jve9Chy.png"
+			},
+			{
+				"nomeProduto": "Canudo de silicone reutilizável - tamanho P",
+				"tipoProduto": "Produto ecológico",
+				"valor": "12.00",
+				"descricao": "Canudos de silicone reutilizáveis e maleáveis.\nIdeal para crianças ou drinques em copos curtos.\nComprimento: 16.5 cm\nDiâmetro: 6 mm\nSão uma ótima alternativa para evitar os descartáveis. Podem ir no microondas, freezer e lava louças. Livres de BPA. Disponível nas cores: azul clara, verde limão, amarelo, roxo/pink, vermelho e laranja.\nAcompanha escova de limpeza.",
+				"detalhes": "1 (um) canudo fino de menor comprimento com 1 (uma) escova de limpeza.",
+				"foto": "https://imgur.com/8MRWA3N.png"
+			},
+			{
+				"nomeProduto": "Canudo de silicone reutilizável - tamanho G",
+				"tipoProduto": "Produto ecológico",
+				"valor": "15.00",
+				"descricao": "Canudos de silicone reutilizáveis e maleáveis.\nTipos: reto ou curvado\nComprimento: 25 cm\nDiâmetro: 6 mm\nSão uma ótima alternativa para evitar os descartáveis. Podem ir no microondas, freezer e lava louças. Livres de BPA. Disponível nas cores: azul clara, azul escura, verde limão, verde claro, amarelo, roxo, pink, rosa, laranja e branco.\nAcompanha escova de limpeza.",
+				"detalhes": "1 (um) canudo fino de maior comprimento com 1 (uma) escova de limpeza.",
+				"foto": "https://imgur.com/GLv5iaN.png"
+			},
+			{
+				"nomeProduto": "Kit de discos demaquilantes atoalhados",
+				"tipoProduto": "Produto ecológico",
+				"valor": 15.0,
+				"descricao": "Kit com 4 (quatro) unidades de discos demaquilantes atoalhados, de material reaproveitado.\nDisponível nas cores: branco, rosa claro, verde claro ou azul claro.\nMonte as cores de acordo com o seu gosto.\nLaváveis em máquina de lavar.\nProdução própria.",
+				"detalhes": "Kit com 4 (quatro) unidades de discos demaquilantes atoalhados.",
+				"foto": "https://imgur.com/XQIfar1.png"
+			},
+			{
+				"nomeProduto": "Kit de talheres de bambu com porta talher - tipo B",
+				"tipoProduto": "Produto ecológico",
+				"valor": 60.0,
+				"descricao": "Kit contendo:\n1 (um) porta talher tipo B - consulte as estampas disponíveis ou peça a estampa de sua preferência com taxa de acréscimo\n5 (cinco) talheres de bambu reutilizável: 1 (um) garfo, 1 (uma) faca, 1 (uma) colher de sopa, 1 (um) par de hashi.\n\nOs itens poderão ser comprados individualmente. Valor sob consulta.\nCaso queira conhecer outros tipos de porta talheres, contate o vendedor.",
+				"detalhes": "1(um) Kit de talheres de bambu reutilizável com 1 (um) porta talher tipo B ",
+				"foto": "https://imgur.com/37lMp9R.png"
+			},
+			{
+				"nomeProduto": "Raspador de língua de aço inoxidável",
+				"tipoProduto": "Produto ecológico",
+				"valor": 35.0,
+				"descricao": "Raspador de língua\nMaterial: aço inoxidável, durável, anti-ferrugem, anti-corrosão\nMelhora da higiene bucal e promove hálito fresco.\nNão recomendável para crianças menores de 8 anos, sem supervisão de um adulto.\nPara higienização, recomenda-se que seja fervido em água quente.",
+				"detalhes": "1 (um) Raspador de língua de aço inox",
+				"foto": "https://imgur.com/SG0OraS.png"
+			},
+			{
+				"nomeProduto": "Canudo metálico reutilizável - fino",
+				"tipoProduto": "Produto ecológico",
+				"valor": "15.00",
+				"descricao": "Canudos metálico reutilizáveis e rígidos.\nTipos: reto ou curvado\nComprimento: 21 cm (reto) e 21,5 cm (curvado)\nDiâmetro: 6 mm\nSão uma ótima alternativa para evitar os descartáveis. \nDisponível nas cores: prata, dourado, cobre, preto, azul e roxo. Consulte a disponibilidade da cor e do tipo desejado. Estoque limitado.\nAcompanha escova de limpeza.",
+				"detalhes": "1 (um) canudo metálico reutilizável e 1 (uma) escova de limpeza",
+				"foto": "https://imgur.com/PY6myE3.png"
+			},
+			{
+				"nomeProduto": "Escova de dente de bambu",
+				"tipoProduto": "Produto ecológico",
+				"valor": "15.00",
+				"descricao": "Escova de dente macia de baixa ou média rigidez.\nCabo de bambu tratado\nCerdas de nylon\nCores das cerdas: branco, preto, marrom, bege, arco-íris, azul, menta e roxo.\n\nEstoque limitado. Consulte a disponibilidade das unidades conforme as cores desejadas.",
+				"detalhes": "1 (uma) Escova de dentes de bambu - diversas cores",
+				"foto": "https://imgur.com/HjpAJ0p.png"
+			}
+		],
+		"vendedor": "EcoJornada1Thainy",
+		"formasDePagamento": "Dinheiro, transferência, boleto, cartão de débito e crédito à vista sem acréscimo ou parcelado com acréscimo.\nTaxa de entrega sob consulta."
+	},
+	"Stand3": {
+		"nome": "Boom Alternativa Ⓡ",
+		"linkMainArt": "https://imgur.com/jvB250X.png",
+		"linkLogo": "https://imgur.com/W0HCtME.png",
+		"site": null,
+		"instagram": "https://www.instagram.com/boomalternativa/",
+		"celular": "https://api.whatsapp.com/send?phone=5561991695716",
+		"tipoProduto": "",
+		"descricao": "A @boomalternativa é uma marca independe que desenvolve coleções autorais desde 2016 , com todas as etapas de produção da marca feitas na zona periférica da capital. Com viés político cultural, trabalham o conceito da marca baseados em sua trajetória e raiz afetiva social. Suas coleções são desenvolvidas com valorização à produção local e mão de obra de profissionais autônomos. O coletivo atua e trabalha de maneira colaborativa com artistas plásticos , ilustradores e desenhistas que por vez tem interesse em explorar seus trabalhos através do vestuário . É sobre moda sem gênero , coletividade e empreendedorismo .",
+		"linkYoutube": null,
+		"catalogo": [
+			{
+				"nomeProduto": "Camiseta Woman @boomalternativa Ⓡ",
+				"tipoProduto": "Vestuário - Camiseta ",
+				"valor": 64.99,
+				"descricao": "Camiseta Woman -100% algodão , Tamanhos : do P ao XG, Cor: amarela, Colab com artista Osmar de Jesus. ",
+				"detalhes": "Camiseta com técnica silk screen , tiragem : 20 peças ",
+				"foto": "https://imgur.com/COzk5n1.png"
+			},
+			{
+				"nomeProduto": "Camiseta All Tag @boomalternativa Ⓡ",
+				"tipoProduto": "Vestuário - Camiseta ",
+				"valor": 119.99,
+				"descricao": "Camiseta Manga Longa -100% algodão , Tamanhos : do P ao GG, Cor: Branca . Colab com o artista MOG .Tiragem : 12 peças",
+				"detalhes": "Camiseta manga longa com técnica silk screen , aplicação total . Tiragem : 12 peças",
+				"foto": "https://imgur.com/Css20f1.png"
+			},
+			{
+				"nomeProduto": "Camiseta Trash @boomalternativa Ⓡ",
+				"tipoProduto": "Vestuário - Camiseta ",
+				"valor": "79.99",
+				"descricao": "Camiseta manga longa -100% algodão , Tamanhos : do P ao GG, Cor: Preta . Colab com o artista Hyago Leão .Tiragem : 20 peças",
+				"detalhes": "Camiseta manga longa com técnica silk screen .Tiragem : 20 peças",
+				"foto": "https://imgur.com/OriluTE.png"
+			},
+			{
+				"nomeProduto": "Camiseta Delay @boomalternativa Ⓡ",
+				"tipoProduto": "Vestuário - Camiseta ",
+				"valor": "64.99",
+				"descricao": "Camiseta  -100% algodão , Tamanhos : do P ao XG, Cor: Verde ou Preta . Colab com o artista @martizlatina .Tiragem : 20 peças",
+				"detalhes": "Camiseta com técnica silk screen .Tiragem : 20 peças",
+				"foto": "https://imgur.com/Uaqc3gE.png"
+			},
+			{
+				"nomeProduto": "Bomber @boomalternativa Ⓡ",
+				"tipoProduto": "Vestuário - Jaqueta",
+				"valor": "229.99",
+				"descricao": "Jaqueta Bomber por @nandaferpimenta , feita em tactel . ",
+				"detalhes": "Tamanhos M e GG. Com punhos canelados 100% poliéster , zíper frontal , forro em microtela e bolsos laterais . Tiragem : 2 peças .",
+				"foto": "https://imgur.com/iLzAi4o.png"
+			},
+			{
+				"nomeProduto": "Moletom  Afroandroide @boomalternativa Ⓡ por Oberas",
+				"tipoProduto": "Vestuário - Casaco",
+				"valor": 199.99,
+				"descricao": "Moletom , cor : Preta . Tamanhos do P ao XG . Técnica silk screen : costas e peito esquerdo . Arte por Oberas , coleção colaborativa .",
+				"detalhes": "Tiragem : 12 peças . Técnica silk screen.",
+				"foto": "https://imgur.com/jpLT67H.png"
+			},
+			{
+				"nomeProduto": "Camisa Listrada @boomalternativa Ⓡ",
+				"tipoProduto": "Vestuário - Camisas",
+				"valor": 119.99,
+				"descricao": "Camisa Listrada 100% Viscose . Cor : Vermelha . Tamanhos : P , M e GG",
+				"detalhes": "Camisa feita em alfaiataria , tiragem : 4 peças ",
+				"foto": "https://imgur.com/e56gzfN.png"
+			},
+			{
+				"nomeProduto": "Camisa Pisciana @boomalternativa Ⓡ",
+				"tipoProduto": "Vestuário - Camisas",
+				"valor": 119.99,
+				"descricao": "Camisa Estampada 100% Viscose . Cor : Preta . Tamanhos : P ",
+				"detalhes": "Camisa feita em alfaiataria , tiragem : 2 peças . ",
+				"foto": "https://imgur.com/oIbCzlY.png"
+			},
+			{
+				"nomeProduto": "Camiseta Tag @boomalternativa Ⓡ",
+				"tipoProduto": "Vestuário - Camiseta",
+				"valor": "64.99",
+				"descricao": "Camiseta TAG BOOM . Cor : Preta . Tamanhos : P ao X3",
+				"detalhes": "Camiseta 100% algodão ,  Técnica silk screen . Tiragem : 20 peças.",
+				"foto": "https://imgur.com/PMkH0Bt.png"
+			},
+			{
+				"nomeProduto": "Camisa Ângulos @boomalternativa Ⓡ",
+				"tipoProduto": "Vestuário - Camisas",
+				"valor": "119.99",
+				"descricao": "Camisa Estampa Geométrica 100% Viscose . Cor : Cores. Tamanhos : G e GG",
+				"detalhes": "Camisa feita em alfaiataria , tiragem : 5 peças .",
+				"foto": "https://imgur.com/vRk3DGn.png"
+			}
+		],
+		"vendedor": "boomalternativa1martiz",
+		"formasDePagamento": "Transferência Bancária : Nu Bank , PAG ou Banco do Brasil . Link de pagamento Pagseguro , ou Boleto ."
+	},
+	"Stand4": {
+		"nome": "Santo Bataclan - Moda Alternativa e Presentes Divertidos ",
+		"linkMainArt": "https://imgur.com/5p2LWt7.png",
+		"linkLogo": "https://imgur.com/87l5O4A.png",
+		"site": null,
+		"instagram": "https://www.instagram.com/santobataclan/",
+		"celular": "https://api.whatsapp.com/send?phone=5561998233473",
+		"tipoProduto": "",
+		"descricao": "O Santo Bataclan é uma marca de moda alternativa e de acessórios divertidos que promove a diversidade e que busca transmitir descontração, divertimento e empoderamento em suas criações.",
+		"linkYoutube": null,
+		"catalogo": [
+			{
+				"nomeProduto": "Camiseta Let's Go Caralho",
+				"tipoProduto": "Vestuário",
+				"valor": 69.0,
+				"descricao": "Camiseta leve e macia confeccionada em malha 100% algodão e estampa aplicada à mão em silk screen.\nDisponível do PP ao GG.",
+				"detalhes": "100% algodão",
+				"foto": "https://imgur.com/hQRbfbA.png"
+			},
+			{
+				"nomeProduto": "Camiseta Fridinha",
+				"tipoProduto": "Vestuário",
+				"valor": 69.0,
+				"descricao": "Camiseta leve e macia confeccionada em malha 100% algodão e estampa aplicada à mão em silk screen.\nDisponível do PP ao GG.",
+				"detalhes": "100% algodão",
+				"foto": "https://imgur.com/rvZzqzr.png"
+			},
+			{
+				"nomeProduto": "Camiseta Snoopy",
+				"tipoProduto": "Vestuário",
+				"valor": "69",
+				"descricao": "Camiseta leve e macia confeccionada em malha 100% algodão e estampa aplicada à mão em silk screen.\nDisponível do PP ao GG.",
+				"detalhes": "100% algodão",
+				"foto": "https://imgur.com/XP386wy.png"
+			},
+			{
+				"nomeProduto": "Camiseta Icônico, Memorável e Atemporal",
+				"tipoProduto": "Vestuário",
+				"valor": "69",
+				"descricao": "Camiseta leve e macia confeccionada em malha 100% algodão e estampa aplicada à mão em silk screen.\nDisponível do PP ao GG.",
+				"detalhes": "100% algodão",
+				"foto": "https://imgur.com/0NKJvuH.png"
+			},
+			{
+				"nomeProduto": "Camiseta Geometric Skull",
+				"tipoProduto": "Vestuário",
+				"valor": "69",
+				"descricao": "Camiseta leve e macia confeccionada em malha 100% algodão e estampa aplicada à mão em silk screen.\nDisponível do PP ao GG.",
+				"detalhes": "100% algodão",
+				"foto": "https://imgur.com/B6Spoin.png"
+			},
+			{
+				"nomeProduto": "Camiseta Vaza Bozo",
+				"tipoProduto": "Vestuário",
+				"valor": 69.0,
+				"descricao": "Camiseta leve e macia confeccionada em malha 100% algodão e estampa aplicada à mão em silk screen.\nDisponível do PP ao GG.",
+				"detalhes": "100% algodão",
+				"foto": "https://imgur.com/foGjR61.png"
+			},
+			{
+				"nomeProduto": "Caneca Caveira 510ml (vidro)",
+				"tipoProduto": "Decoração",
+				"valor": 39.0,
+				"descricao": "Caneca de vidro, capacidade para 510ml e em formato de caveira.",
+				"detalhes": "Vidro",
+				"foto": "https://imgur.com/OOwyp1x.png"
+			},
+			{
+				"nomeProduto": "Kit com 6 Shots de Caveira (vidro)",
+				"tipoProduto": "Decoração",
+				"valor": 39.0,
+				"descricao": "Kit de 6 shots de vidro com capacidade para 50ml cada copinho.",
+				"detalhes": "Vidro",
+				"foto": "https://imgur.com/EK2qOx3.png"
+			},
+			{
+				"nomeProduto": "Quadrinho Retrô",
+				"tipoProduto": "Decoração",
+				"valor": "39",
+				"descricao": "Quadrinho com letinhas para que você crie a própria frase. Vem com as letrinhas e alça para pendurar.",
+				"detalhes": "Kit com placa, letrinhas, alça e barras vermelhas.",
+				"foto": "https://imgur.com/f4bt0i5.png"
+			},
+			{
+				"nomeProduto": "Camiseta Pride",
+				"tipoProduto": "Vestuário",
+				"valor": "69",
+				"descricao": "Camiseta leve e macia confeccionada em malha 100% algodão e estampa aplicada à mão em silk screen.\nDisponível do PP ao GG.",
+				"detalhes": "100% algodão",
+				"foto": "https://imgur.com/p9fVW09.png"
+			}
+		],
+		"vendedor": "SantoBataclan1MauricioGomes",
+		"formasDePagamento": "Dinheiro, cartão (débito e crédito) e PicPay"
+	},
+	"Stand5": {
+		"nome": "Verdurão Camisetas",
+		"linkMainArt": "https://imgur.com/1l9088n.png",
+		"linkLogo": "https://imgur.com/1YUj5FG.png",
+		"site": "https://verduraocamisetas.com.br/?utm_source=site&utm_medium=banner&utm_campaign=moveisconvida",
+		"instagram": "https://www.instagram.com/verduraocamisetas",
+		"celular": "https://api.whatsapp.com/send?phone=556193656115",
+		"tipoProduto": "",
+		"descricao": "Camisetas de Brasília desde 2003",
+		"linkYoutube": null,
+		"catalogo": [
+			{
+				"nomeProduto": "Azulejo camiseta",
+				"tipoProduto": "Moda vestuário",
+				"valor": 74.9,
+				"descricao": "Azulejos, ipês, bikes e uma arquitetura cheia de personalidade são alguns símbolos da nossa capital, que fazem dela uma cidade modelo. ",
+				"detalhes": "100% algodão sustentável",
+				"foto": "https://imgur.com/NIbkOXL.png"
+			},
+			{
+				"nomeProduto": "Pacman BSB camiseta",
+				"tipoProduto": "Moda vestuário",
+				"valor": 89.9,
+				"descricao": "Nhac. Nhac.",
+				"detalhes": "100% algodão sustentável",
+				"foto": "https://imgur.com/FP7IX2y.png"
+			},
+			{
+				"nomeProduto": "Positividade no Planalto Central camiseta",
+				"tipoProduto": "Moda vestuário",
+				"valor": "69.90",
+				"descricao": "Positividade do Planalto Central",
+				"detalhes": "100% algodão sustentável",
+				"foto": "https://imgur.com/9KVBbze.png"
+			},
+			{
+				"nomeProduto": "Brasília Ramones camiseta",
+				"tipoProduto": "Moda vestuário",
+				"valor": "79.9",
+				"descricao": "Candangos + Lucio + Oscar + Juscelino + Punk Rock!",
+				"detalhes": "100% algodão sustentável",
+				"foto": "https://imgur.com/bahGpO8.png"
+			},
+			{
+				"nomeProduto": "VÉÉÉÉÉÉÉÉÉY camiseta",
+				"tipoProduto": "Moda vestuário",
+				"valor": "64.90",
+				"descricao": "O brasiliense criou um novo jeito de falar “cara”: “velho”. Com o passar do tempo, “velho” virou “véi” e hoje em dia é usado pra tudo, desde vírgula à interrogação. Entendeu, véi?",
+				"detalhes": "100% algodão sustentável",
+				"foto": "https://imgur.com/pYBpplB.png"
+			},
+			{
+				"nomeProduto": "ORQUESTRA BOTÂNICA DE BRASÍLIA",
+				"tipoProduto": "Moda vestuário",
+				"valor": 64.9,
+				"descricao": "Alguns amam, outros odeiam, mas Coral de Cigarras só se encontra em BSB!",
+				"detalhes": "100% algodão sustentável",
+				"foto": "https://imgur.com/t1VZSUz.png"
+			},
+			{
+				"nomeProduto": "Cine Brasília camiseta",
+				"tipoProduto": "Moda vestuário",
+				"valor": 54.9,
+				"descricao": "Camiseta com nosso fundador Juscelino Kubistschek assistindo filmes 3D no charmoso e querido Cine Brasília.",
+				"detalhes": "100% algodão sustentável",
+				"foto": "https://imgur.com/cj1LrPd.png"
+			},
+			{
+				"nomeProduto": "Só Vibe Massa baby look",
+				"tipoProduto": "Moda vestuário",
+				"valor": 59.9,
+				"descricao": "Só vibe massa, véi",
+				"detalhes": "100% algodão sustentável",
+				"foto": "https://imgur.com/QCr8o4K.png"
+			},
+			{
+				"nomeProduto": "Dois Candangos baby look",
+				"tipoProduto": "Moda vestuário",
+				"valor": "49.90",
+				"descricao": "Orgulho de quem construiu o quadradinho",
+				"detalhes": "100% algodão sustentável",
+				"foto": "https://imgur.com/PMl39kg.png"
+			},
+			{
+				"nomeProduto": "Você é Cabulos@",
+				"tipoProduto": "Moda vestuário",
+				"valor": "69.90",
+				"descricao": "Respeite seu tempo, véi!",
+				"detalhes": "100% algodão sustentável",
+				"foto": "https://imgur.com/00cw8GJ.png"
+			}
+		],
+		"vendedor": "verduraocamisetas",
+		"formasDePagamento": "cartões de crédito e boleto"
+	},
+	"Stand6": {
+		"nome": "Pretexto Comida e Afeto",
+		"linkMainArt": "https://imgur.com/KkGSjhn.png",
+		"linkLogo": "https://imgur.com/N4WBJ00.png",
+		"site": "https://pretextocomidaeafeto.lojavirtualnuvem.com.br/",
+		"instagram": "https://www.instagram.com/pretexto_br/",
+		"celular": "https://api.whatsapp.com/send?phone=5561982811713",
+		"tipoProduto": "",
+		"descricao": "O Pretexto faz comidas e bebidas de forma artesanal. Com receitas exclusivas e ingredientes saudáveis de fornecedores locais. Nosso trabalho é entregar comida e afeto na sua casa. ENTREGAS TODAS AS SEXTAS FEIRAS SOB ENCOMENDA",
+		"linkYoutube": "https://www.youtube.com/watch?v=F2Cy4hRv4zk&t=333s",
+		"catalogo": [
+			{
+				"nomeProduto": "PESTO VERDE",
+				"tipoProduto": "Alimentação",
+				"valor": 46.0,
+				"descricao": "(ENTREGAS TODAS AS SEXTAS FEIRAS SOB ENCOMENDA)\n\nPrimeiro acrescentamos ao manjericão, ervas que são inerentes ao nosso paladar como a salsa e a cebolinha. Depois acrescentamos a  castanha de caju torrada, alho fresco, azeite de oliva, óleo de algodão e coroamos com um queijo mineiro da Serra da Canastra curado com sabor forte e incrível. Bingo! \n\n \n\nChegamos numa receita incrível desse clássico, mas com a nossa cara...linda.",
+				"detalhes": "Molho para massas, saladas e bruscettas.",
+				"foto": "https://imgur.com/LM8It6Y.png"
+			},
+			{
+				"nomeProduto": "CASAL DE NEGRONIS",
+				"tipoProduto": "Bebida Artesanal - Drink",
+				"valor": 99.0,
+				"descricao": "(ENTREGAS TODAS AS SEXTAS FEIRAS SOB ENCOMENDA)\n\n1 Negroni do Marcos - Negroni Clássico: (200ml - 2 doses): Gin, Vermouth e Campari envelhecidos em barril de carvalho.\n\n1 Negroni da Raquel - Negroni Releitura: (200ml - 2 doses): Cachaça Salinas envelhecida em barril de umburana. , Vermouth, Aperol e água de flor de laranjeira. ",
+				"detalhes": "Duas garrafinhas que fazem 4 doses de Negroni.",
+				"foto": "https://imgur.com/9UxzVka.png"
+			},
+			{
+				"nomeProduto": "NEGRONI DA RAQUEL (NEGRONI RELEITURA)",
+				"tipoProduto": "Bebida Artesanal - Drink",
+				"valor": "58",
+				"descricao": "(ENTREGAS TODAS AS SEXTAS FEIRAS SOB ENCOMENDA)\n\n \n\nCachaça Salinas envelhecida em barril de umburana. , Vermouth, Aperol e água de flor de laranjeira. ",
+				"detalhes": "Uma garrafinha que faz 2 doses de Negroni",
+				"foto": "https://imgur.com/PT0SymB.png"
+			},
+			{
+				"nomeProduto": "FOCACCIA",
+				"tipoProduto": "Alimentação",
+				"valor": "15",
+				"descricao": "(ENTREGAS TODAS AS SEXTAS FEIRAS SOB ENCOMENDA)\n\nFocaccia da Casa para ser saboreada com nossos antepastos",
+				"detalhes": "Pão Artesanal",
+				"foto": "https://imgur.com/zpMPvh8.png"
+			},
+			{
+				"nomeProduto": "CAPONATA DE BERINJELA",
+				"tipoProduto": "Alimentação",
+				"valor": "35",
+				"descricao": "(ENTREGAS TODAS AS SEXTAS FEIRAS SOB ENCOMENDA)\n\nEstávamos contando os dias para a safra da berinjela para poder fazer esse antepasto. E aproveitamos um primo da mesma famílias, muito apreciado aqui no cerrado, e com um toque de amargor importante pra nossa compota que é o jiló. Como sabemos que nem todos vivem de amores por ele, entra só um pouquinho! Nossa caponata é bem equilibrada: doce, salgada, ácida, amarga e levemente picante...e ainda recebe o frescor de uma mix de ervas bem verdinhas.  Ingredientes: berinjela, salsão, jiló, cebola, alho, uvas passa branca e preta, castanha de caju, manjericão, salsa, cebolinha, azeite de oliva, açúcar, aceto balsâmico, pimenta do reino preta, pimenta calabresa e óleo de algodão. \n\nNOSSO VIDRO DE CAPONATA CONTÉM 200gr.",
+				"detalhes": "Caponata conservada em Azeite.",
+				"foto": "https://imgur.com/vK9Nctv.png"
+			},
+			{
+				"nomeProduto": "COMPOTA DE AZEITONAS",
+				"tipoProduto": "Alimentação",
+				"valor": 39.6,
+				"descricao": "(ENTREGAS TODAS AS SEXTAS FEIRAS SOB ENCOMENDA)\n\nNossas azeitonas verdes e pretas sem caroço descansam tranquilas, por cerca de 30 dias, numa mistura de azeite de oliva, ervas frescas, especiarias e uma nota...longe...de pimenta calabresa...única e exclusivamente equilibrar essa compota com os aromas e força dos nossos Cachás. O resultado é uma complexidade bem interessante de sabor e maciez. Peso líquido: 210gr | peso drenado: 150gr",
+				"detalhes": "Azeitonas conservadas no azeite.",
+				"foto": "https://imgur.com/GSJiIlN.png"
+			},
+			{
+				"nomeProduto": "GELÉIA DE MORANGOS COM CARDAMOMO",
+				"tipoProduto": "Alimentação",
+				"valor": 46.0,
+				"descricao": "(ENTREGAS TODAS AS SEXTAS FEIRAS SOB ENCOMENDA)\n\nSempre que está na safra, respeitando a melhor época do ano para florescer e frutificar, fazemos nossa geléia de morangos com todos os ingredientes orgânicos. Em parceria com a CSA da Florestta (@csadaflorestta), os morangos chegam fresquinhos...daí recebem açúcar orgânico e podem receber raspas de laranja bahia, vinho do Porto, alecrim, sementes de cardamomo (o que estiver sendo usado estará no nome do produto) no Pronto! Daí são horas e horas de cuidados em fogo baixo pra chegar numa consistência cremosa que mantenha ainda pedaços de morangos. Excelente para pães, torradas, panquecas, bolos, tortas...ou ainda uma boa fatia de queijo e uma xícara de café fresco.\n\n \n\nNOSSO VIDRO DE GELEIA CONTÉM 250gr.",
+				"detalhes": "Geléia de Morango",
+				"foto": "https://imgur.com/zsk0XSe.png"
+			},
+			{
+				"nomeProduto": "PICLES DE PIMENTA DE CHEIRO",
+				"tipoProduto": "Alimentação",
+				"valor": 37.5,
+				"descricao": "(ENTREGAS TODAS AS SEXTAS FEIRAS SOB ENCOMENDA)\n\nMais um ícone da representatividade nordestina, esse picles só tem ardor no nome mesmo, mas o aroma dessa pimenta e seu sabor são inconfundíveis! Excelente pruma carne de sol bem macia, um sanduíche de queijo coalho quente, finalização de uma moqueca bem colorida... ou o que sua criatividade mandar. Peso líquido: 220gr | Peso drenado: 90gr",
+				"detalhes": "Conserva de Pimenta de Cheiro",
+				"foto": "https://imgur.com/nOD6w4D.png"
+			},
+			{
+				"nomeProduto": "2 DOSES DE CACHÁ (+1 TÔNICA)",
+				"tipoProduto": "Bebidas Artesanais - Drinks",
+				"valor": "55",
+				"descricao": "(ENTREGAS TODAS AS SEXTAS FEIRAS SOB ENCOMENDA)\n\nNomeamos os nossos Cachás  pela cor porque os sabores mudam. Mesmo quando usamos os mesmos ingredientes. Então, assumimos essa mudança de sabor para termos também a liberdade de criar, mudando os ingredientes. Ah, vale lembrar que todos os  açúcares líquidos (syrup) utilizados nos Cachás são feitos por nós. \n\nO Cachá Vermelho -   no momento nosso Cachá Vermelho é feito com: cachaça artesanal infusionada em maçã, hibisco, rosa mosqueta, raspas de laranja, amêndoas em flocos, pétalas de rosas,   mirtilo, cravo, cardamomo, pedaços de baunilha. Levemente adoçado com açúcar líquido (syrup) de morango e alecrim.\n\nO Cachá Amarelo é feito com: cachaça artesanal infusionada em maçã, uvas brancas, amêndoas torradas, camomila, canela. Levemente adoçado com açúcar líquido (syrup) de cupuaçu, de pêra, ou de carambola (já fizemos esses três).\n\nO Cachá Azul é feito com: cachaça artesanal infusionada em Camellia Sinesis,  flor de cunhã, coco, capim limão. Levemente adoçado com óleo saccharum e açúcar líquido (syrup) de coco.",
+				"detalhes": "Bebida Artesanal com água tônica",
+				"foto": "https://imgur.com/sg4oVwM.png"
+			},
+			{
+				"nomeProduto": "4 DOSES DE CACHÁS (+2 TÔNICAS)",
+				"tipoProduto": "Bebidas Artesanais - Drinks",
+				"valor": "88",
+				"descricao": "(ENTREGAS TODAS AS SEXTAS FEIRAS SOB ENCOMENDA)\n\nNomeamos os nossos Cachás  pela cor porque os sabores mudam. Mesmo quando usamos os mesmos ingredientes. Então, assumimos essa mudança de sabor para termos também a liberdade de criar, mudando os ingredientes. Ah, vale lembrar que todos os  açúcares líquidos (syrup) utilizados nos Cachás são feitos por nós. \n\nO Cachá Vermelho -   no momento nosso Cachá Vermelho é feito com: cachaça artesanal infusionada em maçã, hibisco, rosa mosqueta, raspas de laranja, amêndoas em flocos, pétalas de rosas,   mirtilo, cravo, cardamomo, pedaços de baunilha. Levemente adoçado com açúcar líquido (syrup) de morango e alecrim.\n\nO Cachá Amarelo é feito com: cachaça artesanal infusionada em maçã, uvas brancas, amêndoas torradas, camomila, canela. Levemente adoçado com açúcar líquido (syrup) de cupuaçu, de pêra, ou de carambola (já fizemos esses três).\n\nO Cachá Azul é feito com: cachaça artesanal infusionada em Camellia Sinesis,  flor de cunhã, coco, capim limão. Levemente adoçado com óleo saccharum e açúcar líquido (syrup) de coco.",
+				"detalhes": "Drink artesanal",
+				"foto": "https://imgur.com/5Pcqvp7.png"
+			}
+		],
+		"vendedor": "Pretexto",
+		"formasDePagamento": "Cartão de crédito e Débito"
+	},
+	"Stand7": {
+		"nome": "Sabiê | Papelaria Artesanal ",
+		"linkMainArt": "https://imgur.com/69wm8Hi.png",
+		"linkLogo": "https://imgur.com/qSaJzIz.png",
+		"site": "https://www.produtosabie.com.br/",
+		"instagram": "https://www.instagram.com/produtosabie/",
+		"celular": "https://api.whatsapp.com/send?phone=5561982837536",
+		"tipoProduto": "",
+		"descricao": "Sabiê nasceu em 2017 em Brasília, onde até hoje tem seu ninho, da curiosidade em criar um caderno feito à mão, a partir de antigas técnicas da encadernação surge uma grande paixão pelo ramo da papelaria artesanal.\n\nHoje somos uma marca que faz e cria em cima da encadernação, do antigo, da tradição, mas que também não vê limites no inventar e reinventar.\n\nDa ideia à ação, formamos um time de três; sonhadoras e fazedoras, três cabeças, seis mãos e muita vontade de criar.",
+		"linkYoutube": null,
+		"catalogo": [
+			{
+				"nomeProduto": "Caderno Planta",
+				"tipoProduto": "Papelaria Artesanal ",
+				"valor": 55.0,
+				"descricao": "162 páginas, papel polén bold gramatura 90g, suporta bem lápis, caneta e nanquim sem atravessar a folha.\n\nCaderno Único | Colagem feita com papel colorido e partes de planta encontrada no cerrado (não identificada).\n\nEsse produto faz parte da coleção ''ME ENCONTRO NO CERRADO'', 5% de seu valor de venda é destinado pra restauração do bioma Cerrado, através da Associação Cerrado de Pé.\n\nwww.cerradodepe.org.br",
+				"detalhes": "Tamanho: (15x13,5), costura belga em fio encerado marrom.",
+				"foto": "https://imgur.com/W6XJ2gH.png"
+			},
+			{
+				"nomeProduto": "Caderno Juruva",
+				"tipoProduto": "Papelaria Artesanal ",
+				"valor": 40.0,
+				"descricao": "144 páginas, papel polén bold gramatura 90g, suporta bem lápis, caneta e nanquim sem atravessar a folha.\n\n| Revestimento em papel Canson colorido.\n\nEsse produto faz parte da coleção ''ME ENCONTRO NO CERRADO'', 5% de seu valor de venda é destinado pra restauração do bioma Cerrado, através da Associação Cerrado de Pé.\n\nwww.cerradodepe.org.br",
+				"detalhes": "Tamanho A6 (15x11) ou A5 (21x15), costura belga em fio encerado listrado, quatro opções de cores: laranja, azul, cinza e vermelho. ",
+				"foto": "https://imgur.com/SCdEO4G.png"
+			},
+			{
+				"nomeProduto": "Caderno Jurubeba",
+				"tipoProduto": "Papelaria Artesanal ",
+				"valor": "65",
+				"descricao": "162 páginas de papel polén gramatura 90g, suporta bem lápis e nanquin sem atravessar a folha.\n\nCaderno Único | Capa feita com papel colorido e partes de Jurubeba (Solanum paniculatum L).\n\nEsse produto faz parte da coleção ''ME ENCONTRO NO CERRADO'', 5% de seu valor de venda é destinado pra restauração do bioma Cerrado, através da Associação Cerrado de Pé.\n\nwww.cerradodepe.org.br",
+				"detalhes": "Tamanho: (21x21) costura belga em fio encerado marrom. ",
+				"foto": "https://imgur.com/iUWMZ3I.png"
+			},
+			{
+				"nomeProduto": "Caderno João-Bobo ",
+				"tipoProduto": "Papelaria Artesanal ",
+				"valor": "55",
+				"descricao": "168 páginas, papel polén bold gramatura 90g, suporta bem lápis, caneta e nanquim sem atravessar a folha.\n\nProduto único | capa pintada à mão, João-Bobo (Nystalus chacuru)\n\nEsse produto faz parte da coleção ''ME ENCONTRO NO CERRADO'', 5% de seu valor de venda é destinado pra restauração do bioma Cerrado, através da Associação Cerrado de Pé.\n\nwww.cerradodepe.org.br",
+				"detalhes": "Caderno tamanho A6 (14,5x10,5), costura belga em fio encerado marrom.",
+				"foto": "https://imgur.com/obLSRFx.png"
+			},
+			{
+				"nomeProduto": "Caderno Flores",
+				"tipoProduto": "Papelaria Artesanal ",
+				"valor": "45",
+				"descricao": "162 páginas, papel polén bold gramatura 90g, suporta bem lápis, caneta e nanquim sem atravessar a folha.\n\nCadernos Únicos, FLOR LILÁS | Colagem feita com papel colorido e flores do cerrado (não identificada).\n\nEsse produto faz parte da coleção ''ME ENCONTRO NO CERRADO'', 5% de seu valor de venda é destinado pra restauração do bioma Cerrado, através da Associação Cerrado de Pé.\n\nwww.cerradodepe.org.br",
+				"detalhes": "Tamanho: (10x21), costura belga em fio encerado marrom.",
+				"foto": "https://imgur.com/vobRQ3R.png"
+			},
+			{
+				"nomeProduto": "Caderno Asteracea",
+				"tipoProduto": "Papelaria Artesanal ",
+				"valor": 65.0,
+				"descricao": "162 páginas de papel polén gramatura 90g, suporta bem lápis e nanquin sem atravessar a folha.\n\nCaderno Único | Capa feita com papel colorido e parte de espécie da família Asteracea (Asteracea sp).\n\nEsse produto faz parte da coleção ''ME ENCONTRO NO CERRADO'', 5% de seu valor de venda é destinado pra restauração do bioma Cerrado, através da Associação Cerrado de Pé.\n\nwww.cerradodepe.org.br",
+				"detalhes": "Tamanho: (21x21) costura belga em fio encerado marrom.",
+				"foto": "https://imgur.com/EpsoaQq.png"
+			},
+			{
+				"nomeProduto": "Caderno Ariramba ",
+				"tipoProduto": "Papelaria Artesanal ",
+				"valor": 55.0,
+				"descricao": "144 páginas, papel polén bold gramatura 90g, suporta bem lápis, caneta e nanquim sem atravessar a folha.\n\nProduto único | capa pintada à mão, Ariramba-de-cauda-ruiva (Galbula ruficauda)\n\nEsse produto faz parte da coleção ''ME ENCONTRO NO CERRADO'', 5% de seu valor de venda é destinado pra restauração do bioma Cerrado, através da Associação Cerrado de Pé.\n\nwww.cerradodepe.org.br",
+				"detalhes": "Caderno tamanho A6 (14,5x10,5), costura belga em fio encerado vermelho.",
+				"foto": "https://imgur.com/yO8pbeZ.png"
+			},
+			{
+				"nomeProduto": "Caderno Martim Pescador",
+				"tipoProduto": "Papelaria Artesanal ",
+				"valor": 35.0,
+				"descricao": "162 páginas, papel polén bold gramatura 90g, suporta bem lápis, caneta e nanquim sem atravessar a folha.\n\n| Revestimento em couro sintético, duas opções de cores:\n\n- marrom claro;",
+				"detalhes": "Dísponível em três formatos:\n\n- P1 (15x11) pequeno e mais retângular;\n\n- P2 (14x13,5) pequeno mais quadradinho;\n\n- A5 (20x15) médio;",
+				"foto": "https://imgur.com/v2sZrZQ.png"
+			},
+			{
+				"nomeProduto": "Caderno Assa-Peixe",
+				"tipoProduto": "Papelaria Artesanal ",
+				"valor": "55",
+				"descricao": "162 páginas, papel polén bold gramatura 90g, suporta bem lápis, caneta e nanquim sem atravessar a folha.\n\nCaderno Único | Colagem feita com papel colorido e partes do Assa-Peixe Branco (Vernonia polyanthes)\n\nEsse produto faz parte da coleção ''ME ENCONTRO NO CERRADO'', 5% de seu valor de venda é destinado pra restauração do bioma Cerrado, através da Associação Cerrado de Pé.\n\nwww.cerradodepe.org.br",
+				"detalhes": "Tamanho: (15x13,5), costura belga em fio encerado marrom.",
+				"foto": "https://imgur.com/t8rBNG0.png"
+			},
+			{
+				"nomeProduto": "Caderno Tico-Tico",
+				"tipoProduto": "Papelaria Artesanal ",
+				"valor": "35",
+				"descricao": "162 páginas, papel polén bold gramatura 90g, suporta bem lápis, caneta e nanquim sem atravessar a folha.\n\n| Revestimento em tecido.\n\nEsse produto faz parte da coleção ''ME ENCONTRO NO CERRADO'', 5% de seu valor de venda é destinado pra restauração do bioma Cerrado, através da Associação Cerrado de Pé.\n\nwww.cerradodepe.org.br",
+				"detalhes": "Caderno tamanho A6 (15x11) ou A5 (21x15), costura longstitch em fio encerado listrado.",
+				"foto": "https://imgur.com/uaA1vZ9.png"
+			}
+		],
+		"vendedor": "produtosabie",
+		"formasDePagamento": "Boleto, cartão de débito e crédito, transferência bancária (Nubank, Mercado Pago, Banco do Brasil) ou Pic Pay. "
+	},
+	"Stand8": {
+		"nome": "Stein Design em resina e prata",
+		"linkMainArt": "https://imgur.com/AN17CqI.png",
+		"linkLogo": "https://imgur.com/ucAEl4W.png",
+		"site": null,
+		"instagram": "https://www.instagram.com/design.stein/",
+		"celular": "https://api.whatsapp.com/send?phone=5561999980650",
+		"tipoProduto": "",
+		"descricao": "Pecas autorais em prata e resina feitas à mão e com muito amor. \nE, com a quarentena, mais uma paixão entrou para a Stein Design: velas com base de argamassa e resina ❤",
+		"linkYoutube": null,
+		"catalogo": [
+			{
+				"nomeProduto": "Anel Duo",
+				"tipoProduto": "Acessório ",
+				"valor": 160.0,
+				"descricao": "Anel em prata 950 e resina",
+				"detalhes": "Anel regulável e opções de cores",
+				"foto": "https://imgur.com/t5QSp0D.png"
+			},
+			{
+				"nomeProduto": "Anel Taça",
+				"tipoProduto": "Acessório ",
+				"valor": 180.0,
+				"descricao": "Anel em prata 950 e resina",
+				"detalhes": "Anel regulável na cor vermelha e azul com textura.",
+				"foto": "https://imgur.com/GgvqScu.png"
+			},
+			{
+				"nomeProduto": "Anel Paralelo",
+				"tipoProduto": "Acessório ",
+				"valor": "160",
+				"descricao": "Anel em prata 950",
+				"detalhes": "Aro tamanho 20. Feito também sob medida.",
+				"foto": "https://imgur.com/pQFTMSX.png"
+			},
+			{
+				"nomeProduto": "Anel Genuíno ",
+				"tipoProduto": "Acessório ",
+				"valor": "85",
+				"descricao": "Anel em prata 950 com duas pepitas de prata bruta.",
+				"detalhes": "Anel feiro em vários tamanhos, inclusive para falange, fica lindo!",
+				"foto": "https://imgur.com/e0hXsoZ.png"
+			},
+			{
+				"nomeProduto": "Anel Vinil",
+				"tipoProduto": "Acessório ",
+				"valor": "180",
+				"descricao": "Anel em prata 950 e resina",
+				"detalhes": "Anel regulável com opções de cores ",
+				"foto": "https://imgur.com/BK2xH4A.png"
+			},
+			{
+				"nomeProduto": "Anel Trígono",
+				"tipoProduto": "Acessório ",
+				"valor": 160.0,
+				"descricao": "Anel em prata 950",
+				"detalhes": "Anel regulável ",
+				"foto": "https://imgur.com/iO35smX.png"
+			},
+			{
+				"nomeProduto": "Anel Completo em Cor",
+				"tipoProduto": "Acessório ",
+				"valor": 250.0,
+				"descricao": "Anel em prata 950 e resina",
+				"detalhes": "Anel regulável ",
+				"foto": "https://imgur.com/8e2dMgI.png"
+			},
+			{
+				"nomeProduto": "Anel Completo em Cor",
+				"tipoProduto": "Acessório ",
+				"valor": 180.0,
+				"descricao": "Anel em prata 950 recheado com pepitas de prata bruta",
+				"detalhes": "Anel regulável ",
+				"foto": "https://imgur.com/dwe2AoH.png"
+			},
+			{
+				"nomeProduto": "Anel Piruetas ",
+				"tipoProduto": "Acessório ",
+				"valor": "200",
+				"descricao": "Anel em prata 950",
+				"detalhes": "Anel tamanho 18. Feito sob medida.",
+				"foto": "https://imgur.com/jTO0cAY.png"
+			},
+			{
+				"nomeProduto": "Vela aroma Capim Limão ",
+				"tipoProduto": "Decoração ",
+				"valor": "30",
+				"descricao": "Vela feita com argamassa, resina e parafina de soja.",
+				"detalhes": "Pelo fato da resina ser translúcida, fica uma vela super linda e moderna, além do cheirinho maravilhoso de capim limão. Depois de terminada a vela, pode-se usar a peça como peso para papel e como sua criatividade fluir!",
+				"foto": "https://imgur.com/8DQnFqt.png"
+			}
+		],
+		"vendedor": "steindesign1marcelastein",
+		"formasDePagamento": "Transferência bancária, máquina de cartão: crédito e débito "
+	},
+	"Stand9": {
+		"nome": "Se Toca, Garota ",
+		"linkMainArt": "https://imgur.com/licSie4.png",
+		"linkLogo": "https://imgur.com/oECreqz.png",
+		"site": null,
+		"instagram": "https://www.instagram.com/setocagarota_/",
+		"celular": "https://api.whatsapp.com/send?phone=5561983199654",
+		"tipoProduto": "",
+		"descricao": "A Se Toca, Garota é uma sexshop que visa promover o empoderamento e a potencialidade de ter uma sexualidade mais liberta.",
+		"linkYoutube": null,
+		"catalogo": [
+			{
+				"nomeProduto": "Vibrador Ponto G",
+				"tipoProduto": "Artigo Erótico",
+				"valor": 55.0,
+				"descricao": "Vibrador super potente com toque aveludado e formato ideal para estimular o ponto g e clitóris\n",
+				"detalhes": "Usa 1 pilha AA",
+				"foto": "https://imgur.com/w3DbGGC.png"
+			},
+			{
+				"nomeProduto": "Vibrador Bullet ",
+				"tipoProduto": "Artigo Erótico",
+				"valor": 30.0,
+				"descricao": "Vibrador bullet é um vibrador em formato de cápsula super potente, ideal para explorar todo o corpo e otimo para estimular clitóris durante a penetração",
+				"detalhes": "Usa 2 pilhas AA",
+				"foto": "https://imgur.com/xh4fkLY.png"
+			},
+			{
+				"nomeProduto": "Vibrador Personal",
+				"tipoProduto": "Artigos Eróticos",
+				"valor": "65",
+				"descricao": "Seu formato cilíndrico e liso possibilita estímulos no clitóris e tambem a penetração",
+				"detalhes": "Usa 1 pilha AA",
+				"foto": "https://imgur.com/tKZFE7b.png"
+			},
+			{
+				"nomeProduto": "Vibrador Rabbit",
+				"tipoProduto": "Artigos Eróticos",
+				"valor": "280",
+				"descricao": "Vibrador Rotativo especial feito em jelly macio com pérolas metálicas internas para estimulação, possui rotação, estimulador em formato coelho com vibração, as funções podem ser acionadas juntas ou separadamente, tudo regulado por botões na base do vibrador",
+				"detalhes": "Vibrador recarregavel",
+				"foto": "https://imgur.com/gH5JuuS.png"
+			},
+			{
+				"nomeProduto": "Prótese Arómatica",
+				"tipoProduto": "Artigos Eróticos",
+				"valor": "75",
+				"descricao": "Prótese realistica aromática, aromas de uva e morango",
+				"detalhes": "Tamanho: 16cmx4,5cm",
+				"foto": "https://imgur.com/Mww1jnI.png"
+			},
+			{
+				"nomeProduto": "Plug Diamante",
+				"tipoProduto": "Artigos Eróticos ",
+				"valor": 65.0,
+				"descricao": "Plug anal metal átoxico",
+				"detalhes": "6,5cmx3x5cm",
+				"foto": "https://imgur.com/Vh7yzMn.png"
+			},
+			{
+				"nomeProduto": "Dedeira Vibratória",
+				"tipoProduto": "Artigos Eróticos",
+				"valor": 65.0,
+				"descricao": "Dedeira vibratória maravilhosa para estimulação clitoriana, independencia e varias possibilidades de uso.",
+				"detalhes": "Usa 3 baterias LR44",
+				"foto": "https://imgur.com/pgXCLWY.png"
+			},
+			{
+				"nomeProduto": "Vela de Massagem",
+				"tipoProduto": "Artigos Eróticos",
+				"valor": 37.0,
+				"descricao": "A base de cera de abelha essa vela aromática após jogada no corpo vira um delicioso óleo de massagem.",
+				"detalhes": "35 gr",
+				"foto": "https://imgur.com/DhoVOKI.png"
+			},
+			{
+				"nomeProduto": "Masturbador Egg",
+				"tipoProduto": "Artigos Eróticos",
+				"valor": "38",
+				"descricao": "Ovo de silicone com textura interna, bem lubrificado por dentro pode ser usado para masturbar penis e vulvas.",
+				"detalhes": "Texturas diversas",
+				"foto": "https://imgur.com/aa8rBED.png"
+			},
+			{
+				"nomeProduto": "Lubrificante Facilit",
+				"tipoProduto": "Artigos Eróticos",
+				"valor": "25",
+				"descricao": "Facilit Bisnaga 15ml Soft Love é um Anestésico Anal 4 x 1 - Anestésico, lubrificante, vasodilatador e cicatrizante. Tenha uma relação sem dor.\n\n (sensação anestésico)\n",
+				"detalhes": "Contém 15ml",
+				"foto": "https://imgur.com/ZcfjDIu.png"
+			}
+		],
+		"vendedor": "SeTocaGarota1AlinyVieira",
+		"formasDePagamento": "Transferência Bancaria ou link pagseguro"
+	},
+	"Stand10": {
+		"nome": "Luz Weber Bolsas e Acessórios",
+		"linkMainArt": "https://imgur.com/aHcu23P.png",
+		"linkLogo": "https://imgur.com/fe9Lj8Y.png",
+		"site": "https://www.luzweber.com.br/",
+		"instagram": "https://www.instagram.com/luz.weber/",
+		"celular": "https://api.whatsapp.com/send?phone=5561981162911",
+		"tipoProduto": "",
+		"descricao": "A Luz Weber produz bolsas, acessórios e peças de vestuário em tecido e linhas utilizando técnicas manuais de costura, patchwork, crochê e tricô.\nSão cachecóis, xales, ponchos e golas feitos em tricô e crochê com lãs ou linhas de excelente qualidade e acabamento impecável.\nAs bolsas são nosso principal produto: podem ser feitas de tecido, tricô ou crochê, e os estilos são bem variados - street style, casual, boho, social, hippie, ...\nTambém fazemos pequenos acessórios de tecido como carteiras, necessaires, porta-óculos, carteirinhas, capas para tablets e Kindle.\nTemos peças prontas e também trabalhamos com encomendas: se você tem um projeto especial, entre em contato!",
+		"linkYoutube": null,
+		"catalogo": [
+			{
+				"nomeProduto": "Porta-cartões ou carteirinha",
+				"tipoProduto": "artesanato",
+				"valor": 18.0,
+				"descricao": "Carteirinha feita em tecido de algodão, ideal para carregar documento e cartão, pra saídas rápidas ou pra quem não quer carregar peso.",
+				"detalhes": "Medidas: 12cm de comp. X 9,5cm de alt.",
+				"foto": "https://imgur.com/JxNp54Y.png"
+			},
+			{
+				"nomeProduto": "Pochete Isa",
+				"tipoProduto": "artesanato",
+				"valor": 95.0,
+				"descricao": "A pochete Isa é uma peça versátil pra usar nas festas e no dia a dia.\nA alça regulável permite que a pochete vire bolsa.",
+				"detalhes": "Medida: 22cm de comp. X 12cm de alt. X 4cm de prof.",
+				"foto": "https://imgur.com/Oemptcw.png"
+			},
+			{
+				"nomeProduto": "Bolsa Heloisa",
+				"tipoProduto": "artesanato",
+				"valor": "110.00",
+				"descricao": "A bolsa Heloisa é feita em crochê com fio de malha, um material reaproveitado da indústria têxtil.\nA alça pode ser usada dupla no ombro, ou simples a tiracolo.",
+				"detalhes": "Medida: 20cm de comp. X 20cm de alt. X 20cm de prof.",
+				"foto": "https://imgur.com/arx7FCw.png"
+			},
+			{
+				"nomeProduto": "Bolsa Teresa",
+				"tipoProduto": "artesanato",
+				"valor": "90.00",
+				"descricao": "A bolsa Teresa é feita em crochê com fio de malha, um material reaproveitado da indústria têxtil.\nAs duas opções de alças possibilitam muitas combinações.\nAcompanha a alça de ombro.",
+				"detalhes": "Medida: 25cm de comp. X 20cm de alt. aproximadamente",
+				"foto": "https://imgur.com/lDxqL1w.png"
+			},
+			{
+				"nomeProduto": "Bolsa Luz",
+				"tipoProduto": "artesanato",
+				"valor": "125.00",
+				"descricao": "A Bolsa Luz é dupla-face, um lado estampado e outro liso.\nEla tem bolso interno solto, para ser colocado para o lado de dentro, independente do lado escolhido.\nEla também pode ser usada com as laterais abertas, criando um modelo diferente.",
+				"detalhes": "Medida: 20cm de comp. X 30cm de alt. X 20cm de prof.",
+				"foto": "https://imgur.com/ZSnapdd.png"
+			},
+			{
+				"nomeProduto": "Bolsa Lilian",
+				"tipoProduto": "artesanato",
+				"valor": 140.0,
+				"descricao": "A Bolsa Lilian é dupla-face, um lado estampado e outro liso.\nEla tem bolso interno solto, para ser colocado para o lado de dentro, independente do lado escolhido.\nÉ uma bolsa grande, e ainda assim é leve, ideal para o dia a dia.",
+				"detalhes": "Medida: 40cm de comp. X 30cm de alt. X 15cm de prof.",
+				"foto": "https://imgur.com/bqMz15x.png"
+			},
+			{
+				"nomeProduto": "Bolsa Gisele",
+				"tipoProduto": "artesanato",
+				"valor": 150.0,
+				"descricao": "A Bolsa Gisele é dupla-face, um lado estampado e outro liso.\nA alça pode ser regulada com nó, se presa bem na pontinha a bolsa pode ser usada a tiracolo, ótima opção para quem anda de bicicleta.\nEla tem bolso interno solto.",
+				"detalhes": "Medida: 45cm de comp. X 40cm de alt. X 20cm de prof.",
+				"foto": "https://imgur.com/M9qeavW.png"
+			},
+			{
+				"nomeProduto": "Bolsa Rosana",
+				"tipoProduto": "artesanato",
+				"valor": 135.0,
+				"descricao": "A Bolsa Rosana é feita em crochê com fio de algodão com alça em material sintético análogo ao couro.\nA alça é removível e pode ser substituída por um lenço.",
+				"detalhes": "Medida: 25cm de comp. X 35cm de alt. X 10cm de prof.",
+				"foto": "https://imgur.com/JAahCKs.png"
+			},
+			{
+				"nomeProduto": "Bolsa Tetê",
+				"tipoProduto": "artesanato",
+				"valor": "135.00",
+				"descricao": "A Bolsa Tetê é feita em crochê de rede, com pontos abertos, em fio de algodão.\nA alça é em material sintético análogo ao couro,  é removível e pode ser substituída por um lenço.",
+				"detalhes": "Medida: 25cm de comp. X 35cm de alt. X 10cm de prof.",
+				"foto": "https://imgur.com/QuiaX5y.png"
+			},
+			{
+				"nomeProduto": "Bolsa Bruna",
+				"tipoProduto": "artesanato",
+				"valor": "90.00",
+				"descricao": "A Bolsa Bruna é feita em crochê com fio náutico, um material super resistente.\nA alça ajustável permite usá-la também como pochete.",
+				"detalhes": "Medida: 20cm de comp. X 15cm de alt. ",
+				"foto": "https://imgur.com/jfa6eye.png"
+			}
+		],
+		"vendedor": "Luzweber1luzweber",
+		"formasDePagamento": "Boleto, cartão de crédito e débito, dinheiro"
+	},
+	"Stand11": {
+		"nome": "Brechó Sex Machine ",
+		"linkMainArt": "https://imgur.com/3lgZBXh.png",
+		"linkLogo": "https://imgur.com/0OVKwGz.png",
+		"site": null,
+		"instagram": "https://www.instagram.com/brechosexmachine/",
+		"celular": "https://api.whatsapp.com/send?phone=5561994130598",
+		"tipoProduto": "",
+		"descricao": "Brechó com curadoria vintage voltada especialmente para as  décadas de 80 e 90.",
+		"linkYoutube": null,
+		"catalogo": [
+			{
+				"nomeProduto": "Bolsa Vintage anos 60",
+				"tipoProduto": "Acessórios ",
+				"valor": 119.0,
+				"descricao": "Bolsa de vime com fecho em acrílico e metal.",
+				"detalhes": "Peça com detalhes em couro, forro intacto e possui bolso interno.",
+				"foto": "https://imgur.com/sq8piPT.png"
+			},
+			{
+				"nomeProduto": "Vestido Vintage 80’s ",
+				"tipoProduto": "Vestuário ",
+				"valor": 229.0,
+				"descricao": "Vestido de renda com mangas bufantes na cor bege. Tam M. ",
+				"detalhes": "Possui saia com forro de tule e decote nas costas. Botões na parte de trás. ",
+				"foto": "https://imgur.com/a7YpFeJ.png"
+			},
+			{
+				"nomeProduto": "Camisa Vintage estampada",
+				"tipoProduto": "Vestuário ",
+				"valor": "50",
+				"descricao": "Camisa estampada com padrão quadriculado em tons alaranjados e terrosos. ",
+				"detalhes": "TAM G/GG, na etiqueta 52. Possui um bolso e caimento fluido.",
+				"foto": "https://imgur.com/0HVwbJT.png"
+			},
+			{
+				"nomeProduto": "Camisa Vintage Mix de Estampas ",
+				"tipoProduto": "Vestuário ",
+				"valor": "50",
+				"descricao": "Camisa Vintage com mix de estampas de poá e listras. ",
+				"detalhes": "TAM G, cor preta e não possui bolso. ",
+				"foto": "https://imgur.com/wLmtJ77.png"
+			},
+			{
+				"nomeProduto": "Vestido Oriental ",
+				"tipoProduto": "Vestuário ",
+				"valor": "119",
+				"descricao": "Vestido oriental na cor vermelho com estampa dourada de dragões e fênix. ",
+				"detalhes": "Zíper lateral além do fecho tradicional dessa modelagem. Na foto ele foi ajustado com o cinto para parecer um pouco mais curto, ele termina na altura do joelho. TAM P. ",
+				"foto": "https://imgur.com/Ty1vGfL.png"
+			},
+			{
+				"nomeProduto": "Bolsa de couro ",
+				"tipoProduto": "Acessórios ",
+				"valor": 75.0,
+				"descricao": "Bolsa de couro pequena com dois bolsos internos para dinheiro ou cartão. ",
+				"detalhes": "Fecho com fivela prateada, perfeito estado e forro intacto.",
+				"foto": "https://imgur.com/HB35vBo.png"
+			},
+			{
+				"nomeProduto": "Bota de couro Zowie",
+				"tipoProduto": "Acessórios ",
+				"valor": 200.0,
+				"descricao": "Bota de couro da marca Zowie TAM 36/37 na altura do joelho. ",
+				"detalhes": "Salto de 7cm. Possui um cadarço, na cor preta. ",
+				"foto": "https://imgur.com/FCebnKZ.png"
+			},
+			{
+				"nomeProduto": "Mom Jeans Gucci ",
+				"tipoProduto": "Vestuário ",
+				"valor": 200.0,
+				"descricao": "Calça de cintura alta da grife Gucci TAM 34/36. ",
+				"detalhes": "Jeans azul claro. Detalhe de faixa lateral de tecido com estrelas e o nome da grife(GUCCI JEANS) ",
+				"foto": "https://imgur.com/b6HoS9Z.png"
+			},
+			{
+				"nomeProduto": "Bota de couro ",
+				"tipoProduto": "Acessórios ",
+				"valor": "119.00",
+				"descricao": "Bota de couro com detalhe na parte frontal inspirado nos calçados de cowboys. ",
+				"detalhes": "Salto grosso de 8cm. ",
+				"foto": "https://imgur.com/2MbKwbO.png"
+			},
+			{
+				"nomeProduto": "Jaqueta de Couro 80’s ",
+				"tipoProduto": "Vestuário ",
+				"valor": "189.00",
+				"descricao": "Jaqueta de couro HAYDEE CUER’S, fecha através de abotoamento frontal. ",
+				"detalhes": "Manga modelagem morcego. TAM M ",
+				"foto": "https://imgur.com/HJHL4Al.png"
+			}
+		],
+		"vendedor": "Brechosexmachine",
+		"formasDePagamento": "Cartão de crédito e débito e transferência bancária "
+	},
+	"Stand12": {
+		"nome": "Sim.tetize",
+		"linkMainArt": "https://imgur.com/dSWhN4I.png",
+		"linkLogo": "https://imgur.com/yfVDHIT.png",
+		"site": null,
+		"instagram": "https://www.instagram.com/sim.tetize/",
+		"celular": "https://api.whatsapp.com/send?phone=5561981472829",
+		"tipoProduto": "",
+		"descricao": "Somos um coletivo de criadoras que discutem o corpo feminino, em particular as mamas, tetas, seios, peitos, nipples. \nPor que o seio da mulher é erotizado e do homem não? \nDe onde vem o tabu que as mulheres não podem amamentar em público sem serem vítimas de olhares maldosos? \nNós bordamos, fazemos crochê, costuramos, adoramos um reaproveitamento e com nossas manualidades nos conectamos umas as outras nesta imensa rede do feminino com tanto preconceito pra derrubar.\n",
+		"linkYoutube": null,
+		"catalogo": [
+			{
+				"nomeProduto": "Bordado Mamilo",
+				"tipoProduto": "Decoração",
+				"valor": 50.0,
+				"descricao": "Bordado em bastidor de madeira para ser usado na decoração.\nO bordado pode variar em cor e textura, assim como a cor do tecido, que pode ser da cor da sua pele.",
+				"detalhes": "Medida: bastidor com 16cm de diâmetro",
+				"foto": "https://imgur.com/Jnt1nSz.png"
+			},
+			{
+				"nomeProduto": "Bordado Mamilo + frase",
+				"tipoProduto": "decoração",
+				"valor": 50.0,
+				"descricao": "Bordado em bastidor de madeira para ser usado na decoração.\nO bordado pode variar em cor e textura.\nA frase pode ser escolhida por você com até 30 letras.",
+				"detalhes": "Medida: bastidor com 16cm de diâmetro",
+				"foto": "https://imgur.com/FqsXKhW.png"
+			},
+			{
+				"nomeProduto": "Bordado mamilo arco-íris",
+				"tipoProduto": "decoração",
+				"valor": "50.00",
+				"descricao": "Bordado em bastidor de madeira para ser usado na decoração.\nO bordado pode variar em cor e textura, assim como a cor do tecido, que pode ser da cor da sua pele.",
+				"detalhes": "Medida: bastidor com 16cm de diâmetro",
+				"foto": "https://imgur.com/IhjSq2M.png"
+			},
+			{
+				"nomeProduto": "Peito em amigurumi",
+				"tipoProduto": "decoração",
+				"valor": "40.00",
+				"descricao": "Peito feito em crochê com a técnica amigurumi.\nPode ser usado na decoração, para treinamento de amamentação, para desmamar crianças.\nFeito em algodão com enchimento antialérgico.",
+				"detalhes": "Medidas: 10cm de diâmetro x 10cm de altura",
+				"foto": "https://imgur.com/5L09qNX.png"
+			},
+			{
+				"nomeProduto": "Bolsa Peito",
+				"tipoProduto": "artesanato",
+				"valor": "80.00",
+				"descricao": "Bolsa de crochê em fio de algodão com alça de material sintético análogo ao couro.",
+				"detalhes": "Medidas: 15cm diâmetro X 20cm de altura",
+				"foto": "https://imgur.com/JimMIDR.png"
+			},
+			{
+				"nomeProduto": "Bottons de mamilos",
+				"tipoProduto": "artesanato",
+				"valor": 15.0,
+				"descricao": "Botton feito em tecido bordado.\nPode ser tecido liso ou estampado.\n15 reais cada unidade.",
+				"detalhes": "Medida 5,5cm de diâmetro",
+				"foto": "https://imgur.com/Dxvrymo.png"
+			},
+			{
+				"nomeProduto": "Carteira jeans bordada com mamilo",
+				"tipoProduto": "artesanato",
+				"valor": 80.0,
+				"descricao": "Carteira feita em jeans reaproveitado de calças rasgadas.\nBordado com mamilos ou peitos.\nTem duas opções de uso: Carteira com a aba dobrada e Bolsa com alça de ombro.",
+				"detalhes": "Medidas: 25cm comp. X 15cm altura",
+				"foto": "https://imgur.com/XxkGlmi.png"
+			},
+			{
+				"nomeProduto": "Camiseta com mamilos",
+				"tipoProduto": "vestuário  ",
+				"valor": 65.0,
+				"descricao": "Para vestir a causa: camisetas com bordados de peito, de mamilo, aplicação de mamilos, frases feministas.",
+				"detalhes": "Tamanho P, M ou G",
+				"foto": "https://imgur.com/9DayuWt.png"
+			},
+			{
+				"nomeProduto": "Pin de tecido",
+				"tipoProduto": "artesanato",
+				"valor": "15.00",
+				"descricao": "Pin artesanal feito de tecido com frases maneiras.\nPra você usar onde quiser.",
+				"detalhes": "Medida: 7,5cm X 6cm",
+				"foto": "https://imgur.com/XY9byh1.png"
+			},
+			{
+				"nomeProduto": "Bordados com frases feministas",
+				"tipoProduto": "decoração",
+				"valor": "50.00",
+				"descricao": "Bordado em bastidor de madeira para ser usado na decoração.\nO bordado pode variar em cor e textura.\nA frase pode ser escolhida por você com até 50 letras.",
+				"detalhes": "Medida: 16cm",
+				"foto": "https://imgur.com/pnrrWQl.png"
+			}
+		],
+		"vendedor": "Simtetize1CeciliaCrispim",
+		"formasDePagamento": "Cartão de crédito e débito, dinheiro e boleto"
+	},
+	"Stand13": {
+		"nome": "Jéssica Boás - Ilustradora",
+		"linkMainArt": "https://imgur.com/rqMaRWk.png",
+		"linkLogo": "https://imgur.com/uooOEQo.png",
+		"site": "https://www.colab55.com/@jboas",
+		"instagram": "https://www.instagram.com/_jboas/?hl=pt-br",
+		"celular": "https://api.whatsapp.com/send?phone=5561999805181",
+		"tipoProduto": "",
+		"descricao": "Apaixonada por arte digital e fã da cultura pop, atua como artista independente desde 2016. Suas ilustrações abordam temas como feminismo, ufologia, psicodelia, subculturas e auto aceitação  sempre carregadas de críticas sociais com um toque de sarcasmo e humor. \n",
+		"linkYoutube": null,
+		"catalogo": [
+			{
+				"nomeProduto": "Poster",
+				"tipoProduto": "Decoração",
+				"valor": 34.9,
+				"descricao": "Posters e quadros. Escolha entre impressão em papel algodão e fotográfico em diversos tamanhos, com ou sem moldura.",
+				"detalhes": "Moldura em laca de 1,5cm. Frente em acrílico, super leve e resistente. Com pendurador removível e sistema abre e fecha, pra você trocar a arte\nFine art Hahnemühle 200gsm levemente texturizado\nPhotoMatte Papel fotográfico 260gsm com laminação fosca",
+				"foto": "https://imgur.com/toDFtTy.png"
+			},
+			{
+				"nomeProduto": "Almofadas",
+				"tipoProduto": "Decoração",
+				"valor": 59.9,
+				"descricao": "Almofadas decorativas com ou sem enchimento, zíper invisível e impressão dos dois lados. ",
+				"detalhes": "\nEnchimento\tFofinho e anti-alérgico\nImpressão\tDigital frente e verso com cores super vivas\nAcabamento\tZíper invisível\nMaterial\tTecido super macio 100% poliéster",
+				"foto": "https://imgur.com/BEdcPBw.png"
+			},
+			{
+				"nomeProduto": "Sketchbooks",
+				"tipoProduto": "Papelaria",
+				"valor": "A partir de R$ 54,90",
+				"descricao": "Dê asas à criatividade com nossos sketchbooks sem pauta ou organize a vida com agendas diárias, semanais, mensais ou bullet journals. E nem contamos o mais legal: você que escolhe a cor do elástico!",
+				"detalhes": "Caderno de Receitas\tCaderno capa dura, espiral metálica dupla preta e espaço para 80 receitas\nPlanners semanais\tAgenda tipo planner com capa flexível. Com 120 páginas (60 folhas) e 52 semanas\nBullet journal\tCaderno pontilhado com capa flexível. 80 páginas (40 folhas) em Pólen 80gsm\nCadernos\tCaderno pautado de capa dura com espiral metálica dupla preta. 160 páginas (80 folhas)\nPlanners mensais\tAgenda tipo planner com capa flexível. Com 84 páginas (42 folhas) e 20 meses\nFechamento\tEm elástico colorido – você escolhe a cor\nAgenda\tAgenda capa dura, espiral metálica dupla preta, bolso plástico, finanças e anotações. Dividida em 12 meses pra você marcar e começar quando quiser\nSketchbooks\tCaderno de desenho sem pauta, com capa dura\n160 páginas (80 folhas) em papel Pólen, de 80gsm\nFolha de guarda e costura pretas",
+				"foto": "https://imgur.com/uCovLzA.png"
+			},
+			{
+				"nomeProduto": "Case ",
+				"tipoProduto": "Acessórios",
+				"valor": "R$59.90",
+				"descricao": "Seu telefone versão galeria de arte: cases com encaixe fácil e acabamento fosco, pra evitar os arranhões. É só escolher!",
+				"detalhes": "Acabamento\tFosco que evita arranhões e proteger o celular\nOpacas\tPolicarbonato branco rígido com impressão 3D que cobre também a lateral\nTransparentes\tSilicone transparente flexível com impressão UV localizada e super nítida",
+				"foto": "https://imgur.com/peHI22c.png"
+			},
+			{
+				"nomeProduto": "Canecas",
+				"tipoProduto": "Decoração",
+				"valor": "R$44.90",
+				"descricao": "Caneca tá sempre na moda e as nossas, feitas em cerâmica, têm alça anti-térmica e são essenciais na hora de organizar ou decorar.",
+				"detalhes": "Impressão\tDigital, direta na cerâmica\nCuidados\tPode ir ao microondas\nTamanho\tComporta 300ml\nMaterial\tCerâmica premium branca com alça anti-térmica",
+				"foto": "https://imgur.com/O9iKnjD.png"
+			},
+			{
+				"nomeProduto": "Bolsas",
+				"tipoProduto": "Acessórios",
+				"valor": 79.9,
+				"descricao": "Resistentes, com alça de algodão super confortável e impressão dos dois lados - você não vai largar sua tote bag!",
+				"detalhes": "Impressão\tDigital frente e verso\nLavagem\tPode ser lavada na máquina\nTotebag\tNão tem zíper nem fecho\nAlça\t30cm em algodão preto\nMaterial\tTecido sarjado 150gsm 100% poliéster\n",
+				"foto": "https://imgur.com/dVRoRGs.png"
+			},
+			{
+				"nomeProduto": "Bottons",
+				"tipoProduto": "Acessórios",
+				"valor": 7.9,
+				"descricao": "Os broches mais criativos da Internet pra usar como você preferir: na camiseta, bolsa, mochila, jaqueta... ou em todos eles ao mesmo tempo!",
+				"detalhes": "Impressão\tLaser em couché fosco\nAcabamento\tPelícula brilhante em polietileno\nFecho\tAlfinete em alumínio\nTamanho\t4,5cm de diâmetro\nMaterial\tModelo nacional com base plástica branca",
+				"foto": "https://imgur.com/OhRTn9D.png"
+			},
+			{
+				"nomeProduto": "Adesivos",
+				"tipoProduto": "Papelaria",
+				"valor": 4.99,
+				"descricao": "Nossa ideia é espalhar arte e os stickers são nossos aliados: com recorte eletrônico em vinil adesivo, quanto mais você compra, mais desconto ganha!",
+				"detalhes": "Como usar\tCole no carro, bicicleta, laptop, azulejos...\nRecorte\tEletrônico com borda branca de 1mm\nMaterial\tVinil fosco branco",
+				"foto": "https://imgur.com/yGZpcK4.png"
+			},
+			{
+				"nomeProduto": "Toalhas",
+				"tipoProduto": "Vestuário",
+				"valor": "A partir de R$ 39,90",
+				"descricao": "Banho/praia e rosto",
+				"detalhes": "Tamanhos\tBanho/praia e rosto\nImpressão\tDigital de alta qualidade\nMaterial\tTecido felpudo de poliéster",
+				"foto": "https://imgur.com/S45gmNP.png"
+			},
+			{
+				"nomeProduto": "Camisetas",
+				"tipoProduto": "Vestuário",
+				"valor": "A partir de R$69,90",
+				"descricao": "Camisetas Full Print",
+				"detalhes": "Baby Long\tGola canoa e caimento soltinho\nMaterial\tMalha flamê, 100% poliéster\nRegular\t3 cores de gola pra escolher\nLavagem\tNão encolhe e não desbota ao lavar\nImpressão\tTotal, frente e costas",
+				"foto": "https://imgur.com/6OSV9Eq.png"
+			}
+		],
+		"vendedor": "JessicaBoas1JessicaBoas",
+		"formasDePagamento": "Pay Pal e Boleto bancário"
+	},
+	"Stand14": {
+		"nome": "Estúdio Banda",
+		"linkMainArt": "https://imgur.com/WmBYhMo.png",
+		"linkLogo": "https://imgur.com/oMtiOoY.png",
+		"site": null,
+		"instagram": "https://www.instagram.com/estudiobandadesign/",
+		"celular": "https://api.whatsapp.com/send?phone=5561998563054",
+		"tipoProduto": "",
+		"descricao": "Design de objetos, design de reuso e objetos de arte",
+		"linkYoutube": null,
+		"catalogo": [
+			{
+				"nomeProduto": "Luminária \"Poste\"",
+				"tipoProduto": "luminária, decoração ",
+				"valor": 280.0,
+				"descricao": "luminária construída a partir de peças garimpadas",
+				"detalhes": "luminária 30x75x16cm com lâmpada de filamento aparente.",
+				"foto": "https://imgur.com/ThJd5va.png"
+			},
+			{
+				"nomeProduto": "luminária \"Pixar\"",
+				"tipoProduto": "luminária, decoração",
+				"valor": 280.0,
+				"descricao": "luminária construída a partir de peças garimpadas",
+				"detalhes": "luminária 25x45x15cm com lâmpada de filamento aparente",
+				"foto": "https://imgur.com/war7wl8.png"
+			},
+			{
+				"nomeProduto": "banco \"Inox\"",
+				"tipoProduto": "móvel, decoração",
+				"valor": "375",
+				"descricao": "banco restaurado",
+				"detalhes": "Banco em aço inox com assento em madeira 35x56x35cm",
+				"foto": "https://imgur.com/KF0gXcQ.png"
+			},
+			{
+				"nomeProduto": "luminária \"moedor\"",
+				"tipoProduto": "luminária, decoração",
+				"valor": "285",
+				"descricao": "luminária construída a partir de peças garimpadas",
+				"detalhes": "luminária 15x40x14cm com lâmpada de filamento aparente",
+				"foto": "https://imgur.com/BIstZr3.png"
+			},
+			{
+				"nomeProduto": "Estação de assepsia",
+				"tipoProduto": "banco, móvel, decoração",
+				"valor": "400",
+				"descricao": "Banco/sapateira com anexo para álcool em gel para assepsia antes de entrar em casa.",
+				"detalhes": "Banco em aço com assento em madeira 100x47x30cm",
+				"foto": "https://imgur.com/ccWD8Qh.png"
+			},
+			{
+				"nomeProduto": "Banco ''Rudi\"",
+				"tipoProduto": "móvel, decoração",
+				"valor": 180.0,
+				"descricao": "Banco em madeira de pinus ",
+				"detalhes": "banco 30x47x31cm",
+				"foto": "https://imgur.com/CC0sxbE.png"
+			},
+			{
+				"nomeProduto": "Chapeleira e porta máscara",
+				"tipoProduto": "móvel, decoração",
+				"valor": 265.0,
+				"descricao": "Chapeleira fabricada em aço com ganchos de chave hidráulica antiga",
+				"detalhes": "chapeleira 27x180cm",
+				"foto": "https://imgur.com/JewTqKL.png"
+			},
+			{
+				"nomeProduto": "Luminária \"Submarino 2\"",
+				"tipoProduto": "luminária, decoração",
+				"valor": 286.0,
+				"descricao": "luminária construída a partir de peças garimpadas",
+				"detalhes": "luminária 15x35x15cm com lâmpada de filamento aparente",
+				"foto": "https://imgur.com/YwGOOq7.png"
+			},
+			{
+				"nomeProduto": "\"A Luz\"",
+				"tipoProduto": "arte, decoração, escultura",
+				"valor": "370",
+				"descricao": "objeto de arte decorativo ",
+				"detalhes": "objeto de arte feito a partir de uma lâmpada e um coração de tecido feito a mão ",
+				"foto": "https://imgur.com/HBoBs21.png"
+			},
+			{
+				"nomeProduto": "\"Coração na mão\"",
+				"tipoProduto": "arte, decoração",
+				"valor": "70",
+				"descricao": "Quadro decorativo",
+				"detalhes": "Quadro em madeira com recorte vinílico 15x15cm",
+				"foto": "https://imgur.com/7lTN2rR.png"
+			}
+		],
+		"vendedor": "Estudiobanda",
+		"formasDePagamento": "Pag seguro, Mercado pago, transferência bancária, débito, crédito e boleto"
+	},
+	"Stand15": {
+		"nome": "DONA TEREZA",
+		"linkMainArt": "https://imgur.com/qbCZof8.png",
+		"linkLogo": "https://imgur.com/NGOHqAo.png",
+		"site": "https://www.donatereza.com/",
+		"instagram": "https://www.instagram.com/dona_tereza/",
+		"celular": "https://api.whatsapp.com/send?phone=5561998366094",
+		"tipoProduto": "",
+		"descricao": "A Dona Tereza surgiu em 2009 com um desejo de vestir pessoas em movimento que buscavam por conforto e estilo.\n\n​\n\nCom o tempo entendemos que esses corpos em movimento tinham expressões muito autênticas e únicas e que éramos uma ferramenta para promover essa liberdade e auto-confiança. \n\n \n\nAqui unimos diferentes perspectivas com mesmas necessidades.\n\n​\n\nFazemos roupas para você se sentir confortável em ser você.\n\n​\n\nValorizamos um bom design e temos como premissas  o conforto, versatilidade, bem-estar, liberdade e qualidade!\n\n​\n\nPromovemos isso de forma artesanal, slow fashion e em Brasília com muito carinho e responsabilidade.",
+		"linkYoutube": null,
+		"catalogo": [
+			{
+				"nomeProduto": "TOP MANU ",
+				"tipoProduto": "vestuário",
+				"valor": 98.0,
+				"descricao": "Nosso top Manu é um modelo nula alça, forrado e suas costuras são embutidas.\n\nÉ uma peça coringa para qualquer armário. Dispensa sutiã e pode ser usado em diversas propostas de produção diferentes.\n\n \n\nA peça possui proteção FPS 50\n\n\n",
+				"detalhes": "Malha : Suplex Light.\nProduto contém muito elastano.",
+				"foto": "https://imgur.com/4rEecU0.png"
+			},
+			{
+				"nomeProduto": "TOP R1",
+				"tipoProduto": "vestuário",
+				"valor": 80.0,
+				"descricao": "Descrição:\n\nTop R1 tem a modelagem reta e alças larguinhas.\n\nPeça coringa para qualquer armário. Dispensa sutiã e pode ser usado em diversas propostas de produção diferentes.\n\n \n\nA peça possui proteção FPS 50",
+				"detalhes": "\nMalha : Suplex Light.\nProduto contém muito elastano.",
+				"foto": "https://imgur.com/7WC3PsX.png"
+			},
+			{
+				"nomeProduto": "TOP MONIQUE",
+				"tipoProduto": "vestuário",
+				"valor": "115.00",
+				"descricao": "Descrição:\n\nTop de amarrar com mangas compridas.\n\nForrado na parte do busto e nas costas.\n\nótima sustentação, não fica transparente e ainda te dá a possibilidade de várias amarrações!",
+				"detalhes": "Malha : Suplex Light.\nProduto contém muito elastano.",
+				"foto": "https://imgur.com/pFKume3.png"
+			},
+			{
+				"nomeProduto": "BOLSA BÁSICA",
+				"tipoProduto": "vestuário",
+				"valor": "90.00",
+				"descricao": "Bolsa com modelagem TOTE, cabe mais coisas, é versátil, prática e vai com tudo!\n\nCom mosquetão interno para prender chaves!\n\n \n\nDimensões:\n\nAltura - 42 cm\n\nLagura - 30 cm\n\nAlças - 67 cm\n\nPalas das laterais e fundo - 7 cm",
+				"detalhes": "Material: 100% algodão",
+				"foto": "https://imgur.com/69hs0en.png"
+			},
+			{
+				"nomeProduto": "TOP CLÁUDIA",
+				"tipoProduto": "vestuário",
+				"valor": "109.00",
+				"descricao": "Descrição:\n\nTop nula manga com manga comprida.\n\nForrado na parte do busto e nas costas.\n\nótima sustentação, não fica transparente!",
+				"detalhes": "Malha : Suplex Light.\nProduto contém muito elastano.",
+				"foto": "https://imgur.com/ukBfk3l.png"
+			},
+			{
+				"nomeProduto": "TOP TAMY",
+				"tipoProduto": "vestuário",
+				"valor": 98.0,
+				"descricao": "Descrição:\n\nTop com cavas estilo nadador e gola alta. Peça toda forrada.\n\nÉ uma peça coringa para qualquer armário. Dispensa sutiã e pode ser usado em diversas propostas de produção diferentes.\n",
+				"detalhes": "Malha : Suplex Light.\nProduto contém muito elastano.",
+				"foto": "https://imgur.com/gHA9tKd.png"
+			},
+			{
+				"nomeProduto": "AGASALHO OVERSIZED",
+				"tipoProduto": "vestuário",
+				"valor": 150.0,
+				"descricao": "Descrição:\n\nAgasalho de moletom com modelagem ampla. Punho canelado na barra das mangas e na gola.",
+				"detalhes": "Malha : Moletom.\n100% algodão",
+				"foto": "https://imgur.com/WWKMTdk.png"
+			},
+			{
+				"nomeProduto": "SHORT MARCELA",
+				"tipoProduto": "vestuário",
+				"valor": 159.0,
+				"descricao": "Descrição:\n\nShort de moletom com dois bolsos na frente.\n\nModelagem reta.\n",
+				"detalhes": "Malha : Moletom.\n100% algodão",
+				"foto": "https://imgur.com/LXYoPYJ.png"
+			},
+			{
+				"nomeProduto": "SHORT BIKER",
+				"tipoProduto": "vestuário",
+				"valor": "135.00",
+				"descricao": "Descrição:\n\nShort estilo ciclista, super versátil, ideal para looks mais urbanos com uma pegada esportiva.\n\nFaça o pedido do seu tamanho usual, apesar do tecido ter elastano não é ideal totalizar o stress elástico do mesmo pois se não sua peça perde a qualidade.\n",
+				"detalhes": "Malha : Suplex Light.\nProduto contém muito elastano.",
+				"foto": "https://imgur.com/j5FXGnT.png"
+			},
+			{
+				"nomeProduto": "CALÇA MANU",
+				"tipoProduto": "vestuário",
+				"valor": "179.00",
+				"descricao": "Descrição:\n\nCalça de moletom com dois bolsos na frente, elático tradicional largo na cintura e elástico roliço com ajuste.\n\nModelagem reta e ajustada, barra ampla, comprimento cigarrete.\n\n \n\nModelo veste P , mede 1,59cm.",
+				"detalhes": "Malha : Moletom.\n100% algodão",
+				"foto": "https://imgur.com/MXyOllw.png"
+			}
+		],
+		"vendedor": "donatereza1angelicapaiva",
+		"formasDePagamento": "boleto, transferência ( nubank / santander ), Picpay (cartão de crédito )"
+	},
+	"Stand16": {
+		"nome": "Conspiração Libertina",
+		"linkMainArt": "https://imgur.com/F7zxRoU.png",
+		"linkLogo": "https://imgur.com/2c2FseF.png",
+		"site": "http://www.lojaconspiracaolibertina.com.br",
+		"instagram": "https://www.instagram.com/conspiracaolibertina/",
+		"celular": "https://api.whatsapp.com/send?phone=5561993131559",
+		"tipoProduto": "",
+		"descricao": "A Conspiração Libertina é uma marca ativista brasileira e brasiliense. Por meio dos nossos produtos e ações buscamos instrumentalizar indivíduos em suas reivindicações e possibilitar que sejam agentes de transformação em qualquer ambiente. Queremos empoderar mulheres, LGBTs, negros e outras chamadas minorias políticas a serem agentes ativos da mudança. Somos um negócio social sediado em Brasília e nosso objetivo como empresa é uma mudança na mentalidade social a médio e longo prazo. \nDesde 2015, temos uma loja online com adesivos, ímãs, tatuagens temporárias, pôsteres, camisetas e bolsas que transformam qualquer superfície em manifesto. Além disso, somos um empreendimento liderado por mulheres comprometidas com a prática do comércio acessível, ético e sustentável, e revertemos o lucro para as causas em que atuamos. Queremos te ajudar a mostrar pro mundo o que é importante para você. Seu corpo, sua geladeira, a parede da faculdade ou qualquer superfície como manifesto. Vem conspirar com a gente!",
+		"linkYoutube": null,
+		"catalogo": [
+			{
+				"nomeProduto": "[camiseta] Mão Floral - símbolo feminista",
+				"tipoProduto": "Vestuário",
+				"valor": 57.0,
+				"descricao": "Nossa luta é todo dia para transformar a sociedade através do Feminismo. Releitura estampada do poderoso símbolo feminista. O símbolo de vênus com o punho em riste começou a ser usado nos anos 70 pelo movimento feminista radical. A primeira referência histórica é a capa do livro Sisterhood is Powerful, organizado por Robin Morgan. Com o tempo, o símbolo virou uma representação de todo movimento de mulheres, sejam elas negras, brancas, indígenas, muçulmanas, brasileiras, européias, africanas, cis, trans, hétero, etc., etc., etc.",
+				"detalhes": "Camiseta 100% algodão, cinza grafite mesclado, estampa em serigrafia. Costurada e estampada em Brasília.",
+				"foto": "https://imgur.com/N3CLzBw.png"
+			},
+			{
+				"nomeProduto": "[pôster] Mulheres do Brasil e Símbolo Feminista",
+				"tipoProduto": "Decoração",
+				"valor": 35.0,
+				"descricao": "Coleção Mulheres do Brasil é uma série que retrata mulheres de grande importância histórica para o país e ignoradas pelos livros. Ilustrações exclusivas elaboradas por artistas convidadas.\n\nReleitura estampada do poderoso símbolo feminista. O símbolo de vênus com o punho em riste começou a ser usado nos anos 70 pelo movimento feminista radical. A primeira referência histórica é a capa do livro Sisterhood is Powerful, organizado por Robin Morgan. Com o tempo, o símbolo virou uma representação de todo movimento de mulheres, sejam elas negras, brancas, indígenas, muçulmanas, brasileiras, européias, africanas, cis, trans, hétero, etc., etc., etc.",
+				"detalhes": "Formato A3, Couchê 170g com laminação BOPP fosca. Impressão Digital.",
+				"foto": "https://imgur.com/OkO7XFt.png"
+			},
+			{
+				"nomeProduto": "[fanbrush] Maquiagem de Arco-íris",
+				"tipoProduto": "Cosmético",
+				"valor": "24",
+				"descricao": "Vista-se de arco-íris.\nMaquiagem nas cores do arco-íris. Tipo batom.",
+				"detalhes": "Produto tipo cosmético em barra (batom, base) importado e testatado dermatologicamente.",
+				"foto": "https://imgur.com/LZ8mCTI.png"
+			},
+			{
+				"nomeProduto": "[adesivo] Feministas, Esquerdistas, LGBTQi+",
+				"tipoProduto": "Papelaria",
+				"valor": "6",
+				"descricao": "Disponível em diversos desenhos militudos para você dar o recado em todos os espaços. Símbolos ativistas em versões estampadas e bem humoradas.",
+				"detalhes": "Adesivo vinílico com laminação brilhosa e corte especial. Tamanhos e preços variados.",
+				"foto": "https://imgur.com/YFLHhi3.png"
+			},
+			{
+				"nomeProduto": "[tattoo] Tatuagem temporária",
+				"tipoProduto": "Cosmético",
+				"valor": "5",
+				"descricao": "Disponível em diversos desenhos militudos para você dar o recado. Símbolos ativistas em versões estampadas e bem humoradas.",
+				"detalhes": "Tatuagem removível com álcool. Diversos Tamanhos e preços.\nProduto certificado pelo INMETRO e não recomendável para menores de 3 anos",
+				"foto": "https://imgur.com/y3QrAXw.png"
+			},
+			{
+				"nomeProduto": "[patch] bordado termocolante",
+				"tipoProduto": "Vestuário",
+				"valor": 10.0,
+				"descricao": "Símbolos ativistas em versões estampadas e bem humoradas. Ideal para customização de roupas, acessórios e/ou outras superfícies de tecido.",
+				"detalhes": "Patch bordado termocolante, ativado com calor, ideal para tecidos com algodão. Tamanhos: Pequeno - 4 x 3,5 cm e Grande - 10 x 8,5 cm. Valores 10 e 15 reais.",
+				"foto": "https://imgur.com/fLGiOYr.png"
+			},
+			{
+				"nomeProduto": "[imã] Feministas, Esquerdistas, LGBTQi+",
+				"tipoProduto": "Decoração",
+				"valor": 5.0,
+				"descricao": "Nenhuma cozinha, copa, cpu será a mesma. Disponível em diversos desenhos militudos para você deixar o recado em todos os espaços. Símbolos ativistas em versões estampadas e bem humoradas.",
+				"detalhes": "Adesivo aplicado em manta magnética com laminação BOPP. Tamanho: 10 x 7 cm e 15 x 10 cm. Preços variados.",
+				"foto": "https://imgur.com/X3pnzzx.png"
+			},
+			{
+				"nomeProduto": "[kit] Posters",
+				"tipoProduto": "Decoração",
+				"valor": 140.0,
+				"descricao": "Coleção Mulheres do Brasil é uma série que retrata mulheres de grande importância histórica para o país e ignoradas pelos livros. Ilustrações exclusivas elaboradas por artistas convidadas.\n\nReleitura estampada do poderoso símbolo feminista. O símbolo de vênus com o punho em riste começou a ser usado nos anos 70 pelo movimento feminista radical. A primeira referência histórica é a capa do livro Sisterhood is Powerful, organizado por Robin Morgan. Com o tempo, o símbolo virou uma representação de todo movimento de mulheres, sejam elas negras, brancas, indígenas, muçulmanas, brasileiras, européias, africanas, cis, trans, hétero, etc., etc., etc.",
+				"detalhes": "4 posters com valor promocional na loja online. Tamanho A3. Couchê 170g com laminação BOPP fosca.",
+				"foto": "https://imgur.com/4iFc6Ee.png"
+			},
+			{
+				"nomeProduto": "[kit] Resistência adesivos",
+				"tipoProduto": "Papelaria",
+				"valor": "35",
+				"descricao": "Kit de adesivos para presentear ou deixar seu caderno, celular, computador prontos pra largar 2020 e entrar 2021 bem-militudos.",
+				"detalhes": "5 adesivos com valor promocional na loja online. Adesivo vinílico com laminação brilhosa e corte especial",
+				"foto": "https://imgur.com/KuujWB2.png"
+			},
+			{
+				"nomeProduto": "[kit] Quilombo",
+				"tipoProduto": "Decoração",
+				"valor": "64",
+				"descricao": "Nos unimos no Quilombo. Diversos itens para levar toda a força da negritude para casa, pele e cotidiano.",
+				"detalhes": "valor promocional na loja online. kit com Poster, adesivo, imã e tatuagem temporária",
+				"foto": "https://imgur.com/mcX2JUH.png"
+			}
+		],
+		"vendedor": "conspiracaolibertina1gabrielaluciana",
+		"formasDePagamento": "cartão de crédito e boleto (via pag seguro), e transferencia banco Inter"
+	},
+	"Stand17": {
+		"nome": "BORN CONCEPT STORE",
+		"linkMainArt": "https://imgur.com/qB7kkZZ.png",
+		"linkLogo": "https://imgur.com/C6AWXsy.png",
+		"site": "https://bornconcept.store/",
+		"instagram": "https://www.instagram.com/bornconcept/",
+		"celular": "https://api.whatsapp.com/send?phone=5561999826605",
+		"tipoProduto": "",
+		"descricao": "Somos uma marca essencialmente inquieta. Acreditamos que nossa zona de conforto é o desconhecido. Isso nos motiva a explorar e todos os dias conhecer um pouco mais de nós mesmo e do mundo em que vivemos. Queremos aproveitar cada segundo dessa jornada, e que ela seja intensa por que até onde sabemos, só temos essa. Arrisque quando for preciso e encerre aqueles ciclos que não te fazem bem. Nosso 8 carrega vários significados: prosperidade, felicidade, bem-estar e saúde são conceitos que norteiam a .born e todos seus colaboradores. Seja e pratique o bem acima de tudo!!!",
+		"linkYoutube": "https://www.youtube.com/watch?v=6sWct1Cznp8",
+		"catalogo": [
+			{
+				"nomeProduto": "Corta Vento Summer",
+				"tipoProduto": "Vestuário",
+				"valor": 248.0,
+				"descricao": "– Tactel\n– Malha encorpada com toque macio\n– O modelo veste tamanho “M”, suas medidas são: 1,86m.\n– A modelo veste tamanho “M”, suas medidas são: 1,65m.\nRecomendações de Lavagem:\n– Lavar Manualmente\n– Utilizar sabão neutro\n– Não utilizar produto à base de cloro (cândida)\n– Não deixar de molho\n– Enxaguar muito bem retirando todo o sabão\n– Poderá utilizar a centrifuga com a peça em saco especial para não danificar a malha\n– Não misturar com outras peças, por exemplo, toalha.\n– Não utilizar secadora rotativa. A vertical não tem problema.\n– Passagem a ferro na temperatura média.",
+				"detalhes": "Corta vento em tactel com forro dry fit modelagem exclusiva Born Concept.",
+				"foto": "https://imgur.com/C9DA30n.png"
+			},
+			{
+				"nomeProduto": "REGATA SUSTAINABLE REGENERAR",
+				"tipoProduto": "Vestuário",
+				"valor": 98.0,
+				"descricao": "– Algodão Pet\n– Malha encorpada com toque macio\n– O modelo veste tamanho “GG”, suas medidas são: 1,86m.\nRecomendações de Lavagem:\n– Lavar Manualmente\n– Utilizar sabão neutro\n– Não utilizar produto à base de cloro (cândida)\n– Não deixar de molho\n– Enxaguar muito bem retirando todo o sabão\n– Poderá utilizar a centrifuga com a peça em saco especial para não danificar a malha\n– Não misturar com outras peças, por exemplo, toalha.\n– Não utilizar secadora rotativa. A vertical não tem problema.\n– Passagem a ferro na temperatura média.",
+				"detalhes": "Regata em malha 50% garrafa pet reciclado e 50% algodão, modelagem tradicional Born Concept. Estampa exclusiva Lucy Aguirre.",
+				"foto": "https://imgur.com/5sARmdu.png"
+			},
+			{
+				"nomeProduto": "SHORT AZUL\n",
+				"tipoProduto": "VESTUÁRIO",
+				"valor": "118",
+				"descricao": "– Tactel Power Plus\n– Tactel tecido especial leve.\n– O modelo veste tamanho “M”, suas medidas são: 1,78\nRecomendações de Lavagem:\n– Lavar Manualmente\n– Utilizar sabão neutro\n– Não utilizar produto à base de cloro (cândida)\n– Não deixar de molho\n– Enxaguar muito bem retirando todo o sabão\n– Poderá utilizar a centrifuga com a peça em saco especial para não danificar a malha\n– Não misturar com outras peças, por exemplo, toalha.\n– Não utilizar secadora rotativa. A vertical não tem problema.\n– Passagem a ferro na temperatura média.\n\n\n\n",
+				"detalhes": "Short tactel, modelagem tradicional Born Concept.",
+				"foto": "https://imgur.com/ZVOB6yF.png"
+			},
+			{
+				"nomeProduto": "Short Laranja",
+				"tipoProduto": "Vestuário",
+				"valor": "118",
+				"descricao": "– Tactel Power Plus\n– Tactel tecido especial leve.\n– O modelo veste tamanho “M”, suas medidas são: 1,78\nRecomendações de Lavagem:\n– Lavar Manualmente\n– Utilizar sabão neutro\n– Não utilizar produto à base de cloro (cândida)\n– Não deixar de molho\n– Enxaguar muito bem retirando todo o sabão\n– Poderá utilizar a centrifuga com a peça em saco especial para não danificar a malha\n– Não misturar com outras peças, por exemplo, toalha.\n– Não utilizar secadora rotativa. A vertical não tem problema.\n– Passagem a ferro na temperatura média.",
+				"detalhes": "Short tactel, modelagem tradicional Born Concept.\n",
+				"foto": "https://imgur.com/Cr1v6sL.png"
+			},
+			{
+				"nomeProduto": "CROPPED SUSTAINABLE REGENERAR\n",
+				"tipoProduto": "Vestuário",
+				"valor": "78",
+				"descricao": " Algodão Pet\n– Malha encorpada com toque macio\n– O modelo veste tamanho “P”, suas medidas são: 1,65m.\nRecomendações de Lavagem:\n– Lavar Manualmente\n– Utilizar sabão neutro\n– Não utilizar produto à base de cloro (cândida)\n– Não deixar de molho\n– Enxaguar muito bem retirando todo o sabão\n– Poderá utilizar a centrifuga com a peça em saco especial para não danificar a malha\n– Não misturar com outras peças, por exemplo, toalha.",
+				"detalhes": "Cropped em malha 50% tecido de garrafa pet reciclada e 50% algodão, modelagem tradicional Born Concept.\n\nEstampa exclusiva Lucy Aguirre.",
+				"foto": "https://imgur.com/XzFfo4D.png"
+			},
+			{
+				"nomeProduto": "T SHIRT SUSTAINABLE REGENERAR\n",
+				"tipoProduto": "Vestuário",
+				"valor": 98.0,
+				"descricao": "– Algodão Pet\n– Malha encorpada com toque macio\n– O modelo veste tamanho “G”, suas medidas são: 1,86m.\nRecomendações de Lavagem:\n– Lavar Manualmente\n– Utilizar sabão neutro\n– Não utilizar produto à base de cloro (cândida)\n– Não deixar de molho\n– Enxaguar muito bem retirando todo o sabão\n– Poderá utilizar a centrifuga com a peça em saco especial para não danificar a malha\n– Não misturar com outras peças, por exemplo, toalha.\n– Não utilizar secadora rotativa. A vertical não tem problema.\n– Passagem a ferro na temperatura média.",
+				"detalhes": "Camiseta em malha 50% garrafa pet reciclado e 50% algodão, modelagem tradicional Born Concept.\n\nEstampa exclusiva Lucy Aguirre.",
+				"foto": "https://imgur.com/dPgiTRJ.png"
+			},
+			{
+				"nomeProduto": "T SHIRT PLANET B\n",
+				"tipoProduto": "Vestuário",
+				"valor": 98.0,
+				"descricao": "– Algodão com fio 30.1 – maior quantidade de fios\n– Malha encorpada com toque macio\nRecomendações de Lavagem:\n– Lavar Manualmente\n– Utilizar sabão neutro\n– Não utilizar produto à base de cloro (cândida)\n– Não deixar de molho\n– Enxaguar muito bem retirando todo o sabão\n– Poderá utilizar a centrifuga com a peça em saco especial para não danificar a malha\n– Não misturar com outras peças, por exemplo, toalha.\n– Não utilizar secadora rotativa. A vertical não tem problema.\n– Passagem a ferro na temperatura média.",
+				"detalhes": "Estampa exclusiva Born Concept\nThere is no planet B – tradução *Não tem planeta B\n\nModelo mede 1,85m e veste tamanho GG",
+				"foto": "https://imgur.com/eXLyS34.png"
+			},
+			{
+				"nomeProduto": "MOLETOM WHITE NEVER FORGET",
+				"tipoProduto": "Vestuário",
+				"valor": 168.0,
+				"descricao": "– Algodão com fio 30.1 – maior quantidade de fios\n– Malha encorpada com toque macio\nRecomendações de Lavagem:\n– Lavar Manualmente\n– Utilizar sabão neutro\n– Não utilizar produto à base de cloro (cândida)\n– Não deixar de molho\n– Enxaguar muito bem retirando todo o sabão\n– Poderá utilizar a centrifuga com a peça em saco especial para não danificar a malha\n– Não misturar com outras peças, por exemplo, toalha.\n– Não utilizar secadora rotativa. A vertical não tem problema.\n– Passagem a ferro na temperatura média.",
+				"detalhes": "Moletom em malha de algodão, modelagem tradicional Born Concept, estampa exclusiva. \n\nNEVER FORGET WHEN IT WAS ALL JUST A DREAM.\n\n*Tradução: Nunca esqueça quando tudo era apenas um sonho.",
+				"foto": "https://imgur.com/W1MkMkH.png"
+			},
+			{
+				"nomeProduto": "MOLETOM BLACK CAPUZ NEVER FORGET\n",
+				"tipoProduto": "Vestuário",
+				"valor": "188",
+				"descricao": "– Algodão com fio 30.1 – maior quantidade de fios\n– Malha encorpada com toque macio\nRecomendações de Lavagem:\n– Lavar Manualmente\n– Utilizar sabão neutro\n– Não utilizar produto à base de cloro (cândida)\n– Não deixar de molho\n– Enxaguar muito bem retirando todo o sabão\n– Poderá utilizar a centrifuga com a peça em saco especial para não danificar a malha\n– Não misturar com outras peças, por exemplo, toalha.\n– Não utilizar secadora rotativa. A vertical não tem problema.\n– Passagem a ferro na temperatura média.",
+				"detalhes": "Moletom em malha de algodão, modelagem tradicional Born Concept, estampa exclusiva. \n\nNEVER FORGET WHEN IT WAS ALL JUST A DREAM.\n\n*Tradução: Nunca esqueça quando tudo era apenas um sonho. ",
+				"foto": "https://imgur.com/uO1nPyQ.png"
+			},
+			{
+				"nomeProduto": "PACK CHROMATIC 3 T-SHIRT BORN BASIC 2 PRETAS 1 BRANCA",
+				"tipoProduto": "Vestuário",
+				"valor": "234",
+				"descricao": "Recomendações de Lavagem:  \n\n– Lavar Manualmente\n– Utilizar sabão neutro\n– Não utilizar produto à base de cloro (cândida)\n– Não deixar de molho\n– Enxaguar muito bem retirando todo o sabão\n– Poderá utilizar a centrifuga com a peça em saco especial para não danificar a malha\n– Não misturar com outras peças, por exemplo, toalha.\n– Não utilizar secadora rotativa. A vertical não tem problema.\n– Passagem a ferro na temperatura média.",
+				"detalhes": "– Contém no Pack: T-Shirt Preta, Cinza e Branca\n\n– 96% Algodão / 4% Elastano – Comfort\n\n– Malha encorpada com toque macio\n\nO modelo veste tamanho “M”, suas medidas são: 1,78m / 78kg.",
+				"foto": "https://imgur.com/D85nOmU.png"
+			}
+		],
+		"vendedor": "bornconcept1daniel",
+		"formasDePagamento": "cartões de crédito, boleto e transferência"
+	},
+	"Stand18": {
+		"nome": "TNHA",
+		"linkMainArt": "https://imgur.com/n4s3Gz4.png",
+		"linkLogo": "https://imgur.com/lCVGCqV.png",
+		"site": null,
+		"instagram": "https://www.instagram.com/tatuatainha/",
+		"celular": "https://api.whatsapp.com/send?phone=5561993599889",
+		"tipoProduto": "",
+		"descricao": "TNHA criou o Projeto Retraços cujo objetivo é contar histórias pelas ilustrações, instigando o imaginário das pessoas, que se identificam e se familiarizam com as diversas histórias. Sendo imaginária ou real, essas histórias podem trazer a realidade de pessoas próximas de quem as vê, assim que param e observam, tornando o caminho na rotina pela cidade, menos inóspito e cinza. Dessa maneira, a diversidade em lembranças é re-lembrada, re-traçada e celebrada.",
+		"linkYoutube": null,
+		"catalogo": [
+			{
+				"nomeProduto": "PÔSTER 1",
+				"tipoProduto": "Decoração",
+				"valor": 100.0,
+				"descricao": "Cartaz tipo Pôster\n#paratodesverem ilustração de um rosto composto por duas metades de rostos distintos, o da esquerda é uma pessoa indígena brasileira com pintura facial e alguns colares, cabelo comprido e franja; o da esquerda é uma pessoa indígena africana com olhos marcantes, cabelo e colares enfeitados por búzios. No centro do rosto há um retângulo alongado marrom e a imagem total é composta por algumas figuras circulares achatadas em vários sentidos compondo uma paleta de diversos tons de pele.",
+				"detalhes": "Impresso manualmente em serigrafia\nDuas cores.\nSobre papel Markatto Stile Bianco 240g/m2\n66 x 48 cm  ",
+				"foto": "https://imgur.com/sxt04Xf.png"
+			},
+			{
+				"nomeProduto": "PÔSTER 2",
+				"tipoProduto": "Decoração ",
+				"valor": 100.0,
+				"descricao": "Cartaz tipo Pôster\n#paratodesverem ilustração de um rosto composto por duas metades de rostos distintos, o da esquerda é uma pessoa indígena brasileira com pintura facial, um cocar e alguns colares, cabelo até os ombros e franja; o da esquerda é uma pessoa indígena africana com pintura facial em bolinhas, cabelo curto e colares enfeitados por dentes de animais e miçangas. No centro do rosto há um retângulo alongado marrom e a imagem total é composta por algumas figuras circulares achatadas em vários sentidos compondo uma paleta de diversos tons de pele.",
+				"detalhes": "Impresso manualmente em serigrafia\nDuas cores.\nSobre papel Markatto Stile Bianco 240g/m2\n66 x 48 cm  ",
+				"foto": "https://imgur.com/QDqIUzo.png"
+			},
+			{
+				"nomeProduto": "PÔSTER 3",
+				"tipoProduto": "Decoração",
+				"valor": "100",
+				"descricao": "Cartaz tipo Pôster\n#paratodesverem ilustração de 24 rostos de indígenas brasileires e africanes compondo um retângulo vertical maior de 4 fileiras e 6 colunas, arte branca e preta.",
+				"detalhes": "Impresso manualmente em serigrafia\nDuas cores.\nSobre papel Markatto Stile Bianco 240g/m2\n66 x 48 cm  ",
+				"foto": "https://imgur.com/DYMRKVc.png"
+			},
+			{
+				"nomeProduto": "PÔSTER 4",
+				"tipoProduto": "Decoração",
+				"valor": "100",
+				"descricao": "Cartaz tipo Pôster\n#paratodesverem ilustração de 8 rostos de indígenas brasileires e africanes compondo um retângulo vertical maior de 4 fileiras e 2 colunas, arte branca e preta com elementos de figuras circulares, acima e abaixo dos rostos formando uma moldura, achatadas em vários sentidos compondo uma paleta de diversos tons de pele.",
+				"detalhes": "Impresso manualmente em serigrafia\nDuas cores.\nSobre papel Markatto Stile Bianco 240g/m2\n66 x 48 cm  ",
+				"foto": "https://imgur.com/AGnFkNJ.png"
+			},
+			{
+				"nomeProduto": "PÔSTER 5",
+				"tipoProduto": "Decoração",
+				"valor": "100",
+				"descricao": "Cartaz tipo Pôster\n#paratodesverem  ilustração de 3x o mesmo rosto em uma fileira vertical sendo que o primeiro só aparece do nariz para baixo, o segundo aparece todo o rosto e o terceiro dos olhos para cima. A pessoa é indígena africana, tem uma pintura facial marcante na testa e na bochecha, é careca e está com uma tiara de cordas e possui vários colares, também de cordas.",
+				"detalhes": "Impresso manualmente em serigrafia\nDuas cores.\nSobre papel Markatto Stile Bianco 240g/m2\n66 x 48 cm  ",
+				"foto": "https://imgur.com/OKgNo5s.png"
+			},
+			{
+				"nomeProduto": "PÔSTER 6",
+				"tipoProduto": "Decoração",
+				"valor": 100.0,
+				"descricao": "Cartaz tipo Pôster\n#paratodesverem  ilustração de 3x o mesmo rosto em uma fileira vertical sendo que o primeiro só aparece do nariz para baixo, o segundo aparece todo o rosto e o terceiro dos olhos para cima. A pessoa é indígena brasileira careca em uma faixa que vai da testa até a nuca, tem um alargador bucal e alguns colares, além de brincos leves.",
+				"detalhes": "Impresso manualmente em serigrafia\nDuas cores.\nSobre papel Markatto Stile Bianco 240g/m2\n66 x 48 cm  ",
+				"foto": "https://imgur.com/pzTNwC6.png"
+			},
+			{
+				"nomeProduto": "ECOBAG",
+				"tipoProduto": "Vestuário",
+				"valor": 32.0,
+				"descricao": "Ecobag \n#paratodesverem A ecobag tem uma ilustração de 3x o mesmo rosto em uma fileira vertical sendo que o primeiro só aparece do nariz para baixo, o segundo aparece todo o rosto e o terceiro dos olhos para cima. A pessoa é indígena africana com pintura facial em bolinhas, cabelo curto e colares enfeitados por dentes de animais e miçangas.\n",
+				"detalhes": "Algodão cru\nImpressão: Silk screen – (Policromia)\nIlustração de traços pretos\nFrente única",
+				"foto": "https://imgur.com/XMYoFyj.png"
+			},
+			{
+				"nomeProduto": "CAMISETA 1",
+				"tipoProduto": "Vestuário",
+				"valor": 62.0,
+				"descricao": "Camiseta de algodão\n#paratodesverem a ilustração é composta por 8 rostos em duas colunas de   4 rostos, as fileiras estão deslocadas para o lado (não alinhadas), ao lado estão alguns circulos achatados em diversas direções com a paleta de cores de tons de peles diversos. São vários rostos de indígenas brasileires e africanes.",
+				"detalhes": "Camisetas \nCor: branca\nTamanho G\nMalha Algodão fio Menegotti\nImpressão: Silk screen – (Policromia)\nLocal: Frente",
+				"foto": "https://imgur.com/pmYMOBb.png"
+			},
+			{
+				"nomeProduto": "CAMISETA 2",
+				"tipoProduto": "Vestuário",
+				"valor": "62",
+				"descricao": "Camiseta de algodão\n#paratodesverem a ilustração é composta por 8 rostos em duas fileiras de 4 rostos, estão intercalados em: quadrado preenchido e quadrado apenas bordeado, a paleta de cores é de tons de peles diversos. São vários rostos de indígenas brasileires e africanes.",
+				"detalhes": "Camisetas \nCor: branca\nTamanho G\nMalha Algodão fio Menegotti\nImpressão: Silk screen – (Policromia)\nLocal: Frente",
+				"foto": "https://imgur.com/3E6pksI.png"
+			},
+			{
+				"nomeProduto": "ADESIVOS",
+				"tipoProduto": "Decoração",
+				"valor": "3 por 7,80 e 6 por 15",
+				"descricao": "Pacote de adesivos\n#paratodesverem conjunto de adesivos, há a alternativa de comprar um pacote de  3 ou 6 unidades, os adesivos são de rostos de pessoas indígenas brasileiras e africanas. O primeiro rosto tem um detalhe de um alargador bucal e uma coroa de sementes; o segundo tem cabelos compridos terminando com detalhes em pedras; o terceiro tem uma pintura facial marcante, é careca e possui vários colares; o quarto tem o cabelo e os colares predominantemente decorados com búzios; o quinto tem um brinco que atravessa o nariz e três na boca, possui um cocar e brincos de sementes; o sexto tem pintura facial em bolinhas, cabelo curto e colares enfeitados por dentes de animais e miçangas.",
+				"detalhes": "Adesivos circulares \nCores: fundo branco e traços pretos\n7 cm de diâmetro\nAcabamento Fosco",
+				"foto": "https://imgur.com/vGc0P6m.png"
+			}
+		],
+		"vendedor": " TNHA1TainaRossi",
+		"formasDePagamento": "boleto, transferência (nubank, banco do brasil), crédito"
+	},
+	"Stand19": {
+		"nome": "Avulsa",
+		"linkMainArt": "https://imgur.com/Gre0IWz.png",
+		"linkLogo": "https://imgur.com/qx0pCTc.png",
+		"site": "http://www.avulsa.com.br",
+		"instagram": "https://www.instagram.com/tatuatainha/",
+		"celular": "https://api.whatsapp.com/send?phone=5561993410786",
+		"tipoProduto": "",
+		"descricao": "Calcinhas e cuecas para pessoas reais, conscientes e maneiras.",
+		"linkYoutube": "https://youtu.be/SwXUBmx-9hI",
+		"catalogo": [
+			{
+				"nomeProduto": "Calcinha Cremosa Veneza",
+				"tipoProduto": "Vestuário íntimo",
+				"valor": 32.0,
+				"descricao": "A nossa calcinha cremosa tem uma modelagem com conforto máximo, malha hipoalergênica de toque muito macio e não tem elásticos na pernas. É a peça mais clássica da Avulsa.\nEstampa: Veneza",
+				"detalhes": "Comp: viscose 96% e elastano 4%\nFundo: 100% algodão",
+				"foto": "https://imgur.com/gg5vfAJ.png"
+			},
+			{
+				"nomeProduto": "Calcinha Cremosa Amsterdã",
+				"tipoProduto": "Vestuário íntimo",
+				"valor": 32.0,
+				"descricao": "A nossa calcinha cremosa tem uma modelagem com conforto máximo, malha hipoalergênica de toque muito macio e não tem elásticos na pernas. É a peça mais clássica da Avulsa.\nEstampa: Amsterdã",
+				"detalhes": "Comp: viscose 96% e elastano 4%\nFundo: 100% algodão",
+				"foto": "https://imgur.com/lwgjx3d.png"
+			},
+			{
+				"nomeProduto": "Calcinha Cremosa Pequim",
+				"tipoProduto": "Vestuário íntimo",
+				"valor": "32",
+				"descricao": "A nossa calcinha cremosa tem uma modelagem com conforto máximo, malha hipoalergênica de toque muito macio e não tem elásticos na pernas. É a peça mais clássica da Avulsa.\nEstampa: Pequim",
+				"detalhes": "Comp: viscose 96% e elastano 4%\nFundo: 100% algodão",
+				"foto": "https://imgur.com/lcE5QT4.png"
+			},
+			{
+				"nomeProduto": "Tanga Delícia Califórnia",
+				"tipoProduto": "Vestuário íntimo",
+				"valor": "32",
+				"descricao": "A modelagem da nossa \"tanga delícia\" tem aquela \"bundinha Brigitte Bardot\" e surpreende por tudo que ela proporciona: conforto, beleza, sensualidade, diversão e confiança (não enfia nem andando de bicicleta).\nEstampa: Califórnia",
+				"detalhes": "Comp: viscose 96% e elastano 4%\nFundo: 100% algodão",
+				"foto": "https://imgur.com/nvgGNnc.png"
+			},
+			{
+				"nomeProduto": "Tanga Delícia Brasília",
+				"tipoProduto": "Vestuário íntimo",
+				"valor": "32",
+				"descricao": "A modelagem da nossa \"tanga delícia\" tem aquela \"bundinha Brigitte Bardot\" e surpreende por tudo que ela proporciona: conforto, beleza, sensualidade, diversão e confiança (não enfia nem andando de bicicleta).\nEstampa: Brasília",
+				"detalhes": "Comp: viscose 96% e elastano 4%\nFundo: 100% algodão",
+				"foto": "https://imgur.com/MH1CrhJ.png"
+			},
+			{
+				"nomeProduto": "Tanga Delícia Malibu",
+				"tipoProduto": "Vestuário íntimo",
+				"valor": 32.0,
+				"descricao": "A modelagem da nossa \"tanga delícia\" tem aquela \"bundinha Brigitte Bardot\" e surpreende por tudo que ela proporciona: conforto, beleza, sensualidade, diversão e confiança (não enfia nem andando de bicicleta).\nEstampa: Malibu",
+				"detalhes": "Comp: viscose 96% e elastano 4%\nFundo: 100% algodão",
+				"foto": "https://imgur.com/lW7HVtn.png"
+			},
+			{
+				"nomeProduto": "Cueca Feminina Los Angeles",
+				"tipoProduto": "Vestuário íntimo",
+				"valor": 43.0,
+				"descricao": "Uma cueca feminina (isso mesmo!) feita em tecido leve e sem elástico nas pernas. É perfeita para dormir ou usar por baixo de vestidos soltinhos ao vento, que é pra te dar mais segurança.\nEstampa: Los Angeles",
+				"detalhes": "Comp: viscose 96% e elastano 4%\nFundo: 100% algodão",
+				"foto": "https://imgur.com/C6ZuZUz.png"
+			},
+			{
+				"nomeProduto": "Cueca Feminina Las Vegas",
+				"tipoProduto": "Vestuário íntimo",
+				"valor": 43.0,
+				"descricao": "Uma cueca feminina (isso mesmo!) feita em tecido leve e sem elástico nas pernas. É perfeita para dormir ou usar por baixo de vestidos soltinhos ao vento, que é pra te dar mais segurança.\nEstampa: Las Vegas",
+				"detalhes": "Comp: viscose 96% e elastano 4%\nFundo: 100% algodão",
+				"foto": "https://imgur.com/7FOsY2t.png"
+			},
+			{
+				"nomeProduto": "Cueca Masculina Tetris",
+				"tipoProduto": "Vestuário íntimo",
+				"valor": "43",
+				"descricao": "Nossa cueca masculina de modelo boxer é feita em malha de toque delicioso, sem elástico nas pernas, bojo frontal duplo com forro 100% algodão e totalmente ergonômico. \nEstampa: Tetris",
+				"detalhes": "Comp: viscose 96% e elastano 4%\nFundo: 100% algodão",
+				"foto": "https://imgur.com/yhjluXD.png"
+			},
+			{
+				"nomeProduto": "Cueca Masculina Amazônia",
+				"tipoProduto": "Vestuário íntimo",
+				"valor": "43",
+				"descricao": "Nossa cueca masculina de modelo boxer é feita em malha de toque delicioso, sem elástico nas pernas, bojo frontal duplo com forro 100% algodão e totalmente ergonômico.\nEstampa: Amazônia",
+				"detalhes": "Comp: viscose 96% e elastano 4%\nFundo: 100% algodão",
+				"foto": "https://imgur.com/6E9UKcQ.png"
+			}
+		],
+		"vendedor": "Poli1Avulsa",
+		"formasDePagamento": "Crédito, débito, boleto e transferência bancária"
+	},
+	"Stand20": {
+		"nome": "Pitayah",
+		"linkMainArt": "https://imgur.com/eijHdaf.png",
+		"linkLogo": "https://imgur.com/ThherFt.png",
+		"site": null,
+		"instagram": "https://www.instagram.com/pitayah_/",
+		"celular": "https://api.whatsapp.com/send?phone=5561996927527",
+		"tipoProduto": "",
+		"descricao": "Marca de acessórios em cerâmica plástica ",
+		"linkYoutube": null,
+		"catalogo": [
+			{
+				"nomeProduto": "Brinco Argola Trançada",
+				"tipoProduto": "1 par de brincos",
+				"valor": 55.0,
+				"descricao": "Brinco em cerâmica plástica na cor amarelo com glitter. Possui base de brinco na cor dourada e pino do brinco também na cor dourada.",
+				"detalhes": "Brinco super leve para usar o dia todo.",
+				"foto": "https://imgur.com/B79s6US.png"
+			},
+			{
+				"nomeProduto": "Brinco Arco-íris",
+				"tipoProduto": "1 par de brincos",
+				"valor": 60.0,
+				"descricao": "Brinco em cerâmica plástica nas cores amarelo ocre, vermelho rosado e cinza com glitter. Possui base de brinco e pino do brinco na cor prata.",
+				"detalhes": "Brinco super leve para usar o dia todo.",
+				"foto": "https://imgur.com/kI22CGO.png"
+			},
+			{
+				"nomeProduto": "Brinco Arraia",
+				"tipoProduto": "1 par de brincos",
+				"valor": "70",
+				"descricao": "Brinco em cerâmica plástica nas cores azul escuro, azul claro, branco e translúcido. Possui base de brinco e pino do brinco na cor prata.",
+				"detalhes": "Brinco super leve para usar o dia todo.",
+				"foto": "https://imgur.com/vKVNrj6.png"
+			},
+			{
+				"nomeProduto": "Brinco Onda",
+				"tipoProduto": "1 bar de brincos",
+				"valor": "65",
+				"descricao": "Brinco em cerâmica plástica nas cores azul escuro, azul claro, branco e translúcido. Possui gancho anzol banhado a ouro ou gancho anzol na cor prata.",
+				"detalhes": "Brinco super leve para usar o dia todo.",
+				"foto": "https://imgur.com/WAKTeXr.png"
+			},
+			{
+				"nomeProduto": "Brinco Branco Phyno",
+				"tipoProduto": "1 par de brincos",
+				"valor": "65",
+				"descricao": "Brinco em cerâmica plástica na cor branca. Possui base de brinco e pino do brinco na cor prata e argolas na cor dourada.",
+				"detalhes": "Brinco super leve para usar o dia todo.",
+				"foto": "https://imgur.com/9xUmI5r.png"
+			},
+			{
+				"nomeProduto": "Brinco Pantera",
+				"tipoProduto": "1 par de brincos",
+				"valor": 68.0,
+				"descricao": "Brinco em cerâmica plástica na cor preta. Possui gancho anzol banhado a ouro ou gancho anzol na cor prata.",
+				"detalhes": "Brinco super leve para usar o dia todo.",
+				"foto": "https://imgur.com/K1kYC2o.png"
+			},
+			{
+				"nomeProduto": "Colar Azul ",
+				"tipoProduto": "1 colar tubular",
+				"valor": 90.0,
+				"descricao": "Colar em cerâmica plástica na cor azul. Possui extensor na cor dourada e fecho lagosta também na cor dourada.",
+				"detalhes": "Colar super leve para usar o dia todo.",
+				"foto": "https://imgur.com/JTd1YXp.png"
+			},
+			{
+				"nomeProduto": "Colar Cobra Coral",
+				"tipoProduto": "1 colar em contas de tamanho médio",
+				"valor": 95.0,
+				"descricao": "Colar em cerâmica plástica na cor branca, vermelha e preta. Possui fio de couro sintético com amarração que pode ser utilizada mais comprida ou mais perto do colo.",
+				"detalhes": "Colar super leve para usar o dia todo.",
+				"foto": "https://imgur.com/EYvvNx6.png"
+			},
+			{
+				"nomeProduto": "Colar Preto e Cinza",
+				"tipoProduto": "1 colar",
+				"valor": "90",
+				"descricao": "Colar em cerâmica plástica na cor branca, cinza com glitter e preta. Possui fio de couro sintético com amarração que pode ser utilizada mais comprida ou mais perto do colo.",
+				"detalhes": "Colar super leve para usar o dia todo.",
+				"foto": "https://imgur.com/3SN1QQI.png"
+			},
+			{
+				"nomeProduto": "Kit 3 Brincos Pqnos",
+				"tipoProduto": "Kit com 3 pares de brincos",
+				"valor": "60",
+				"descricao": "Kit com 3 pares de brincos em cerâmica plástica nas cores rosa escuro, verde escuro e terracota. Possuem bases de brincos e pinos dos brincos nas cores prata.",
+				"detalhes": "Brincos leves para usar o dia todo - todos os dias.",
+				"foto": "https://imgur.com/IZtkV2F.png"
+			}
+		],
+		"vendedor": "pitayah1Nadine",
+		"formasDePagamento": "Transferência Banco do Brasil e Picpay"
+	},
+	"Stand21": {
+		"nome": "Marafa store ",
+		"linkMainArt": "https://imgur.com/TBeXoWM.png",
+		"linkLogo": "https://imgur.com/EPjs4w4.png",
+		"site": null,
+		"instagram": "https://www.instagram.com/marafa_store/",
+		"celular": "https://api.whatsapp.com/send?phone=5561996526540",
+		"tipoProduto": "",
+		"descricao": "Marca alternativa de joias em Prata #usemarafastore ",
+		"linkYoutube": null,
+		"catalogo": [
+			{
+				"nomeProduto": "Brincos indianos com pedras naturais ",
+				"tipoProduto": "Acessórios ",
+				"valor": 149.0,
+				"descricao": "Brincos indianos Diversos, em Prata 925  com pedras naturais.  ",
+				"detalhes": "Valor unitário. Escolha aquele que mais combina com você! #falacomagente",
+				"foto": "https://imgur.com/rm8QObH.png"
+			},
+			{
+				"nomeProduto": "Brincos indianos com pedras naturais ",
+				"tipoProduto": "Acessórios ",
+				"valor": 219.0,
+				"descricao": "Brincos indianos Diversos, em Prata 925  com pedras naturais.  ",
+				"detalhes": "Valor unitário. Escolha aquele que mais combina com você #falacomagente",
+				"foto": "https://imgur.com/XCNVTJq.png"
+			},
+			{
+				"nomeProduto": "Brincos indianos com pedras naturais ",
+				"tipoProduto": "Acessórios ",
+				"valor": "R$129",
+				"descricao": "Brincos indianos Diversos, em Prata 925  com pedras naturais.  ",
+				"detalhes": "Valor unitário. Escolha aquele que mais combina com você! #falacomagente",
+				"foto": "https://imgur.com/HziI7eg.png"
+			},
+			{
+				"nomeProduto": "Kit berloques temas diversos",
+				"tipoProduto": "Acessórios ",
+				"valor": "R$99",
+				"descricao": "Kit com 03 berloques de Prata 925 para pulseiras ",
+				"detalhes": "Valor do Kit #promododia",
+				"foto": "https://imgur.com/5YnoJER.png"
+			},
+			{
+				"nomeProduto": "Kit berloques temas diversos",
+				"tipoProduto": "Acessórios ",
+				"valor": "99",
+				"descricao": "Kit com 03 berloques de Prata 925 para pulseiras ",
+				"detalhes": "Preço do kit #promododia",
+				"foto": "https://imgur.com/mdl6Ce4.png"
+			},
+			{
+				"nomeProduto": "Kit berloques temas diversos ",
+				"tipoProduto": "Acessórios ",
+				"valor": 119.0,
+				"descricao": "Kit com 03 berloques de Prata 925 para pulseiras ",
+				"detalhes": "Valor do kit #promododia",
+				"foto": "https://imgur.com/ps3crhA.png"
+			},
+			{
+				"nomeProduto": "Kit berloques temas diversos ",
+				"tipoProduto": "Acessórios ",
+				"valor": 129.0,
+				"descricao": "Kit com 03 berloques de Prata 925 para pulseiras ",
+				"detalhes": "Valor do kit #promododia",
+				"foto": "https://imgur.com/iPeAJS6.png"
+			},
+			{
+				"nomeProduto": "Kit berloques temas diversos ",
+				"tipoProduto": "Acessórios ",
+				"valor": 99.0,
+				"descricao": "Kit com 03 berloques de Prata 925 para pulseiras ",
+				"detalhes": "Valor do kit #promododia",
+				"foto": "https://imgur.com/YcUYnAS.png"
+			},
+			{
+				"nomeProduto": "Colar Ohm em prata 925 ",
+				"tipoProduto": "Acessórios ",
+				"valor": "R$109",
+				"descricao": "Colar em prata com pingente fixo com detalhe turquesa ",
+				"detalhes": "Ente nessa vibração!",
+				"foto": "https://imgur.com/2KgegzM.png"
+			},
+			{
+				"nomeProduto": "Colar Hamsá ornamentado com olho grego e microzirconias",
+				"tipoProduto": "Acessórios ",
+				"valor": "179",
+				"descricao": "Colar de prata com corrente elos e pingente de pIngente ornamentado com olho grego e microzirconias",
+				"detalhes": "Uma joia energeticamente correta!!!",
+				"foto": "https://imgur.com/Yilxao1.png"
+			}
+		],
+		"vendedor": "MarafaStore1MarcosCunha",
+		"formasDePagamento": "Pagamento via link PagSeguro em até 3x sem juros "
+	},
+	"Stand22": {
+		"nome": "Casa de Alícia",
+		"linkMainArt": "https://imgur.com/QvjoZUO.png",
+		"linkLogo": "https://imgur.com/8Ozn1UX.png",
+		"site": null,
+		"instagram": "https://www.instagram.com/casadealiciaa/",
+		"celular": "https://api.whatsapp.com/send?phone=5561982212248",
+		"tipoProduto": "",
+		"descricao": "A Casa de Alícia nasceu do sentimento e amor pela decoração e pela natureza que me acompanham desde sempre. Inspirada no olhar mais lento e na c(alma), busco transferir para o tecido a profundidade que a produção manual me permite. As ecobags e almofadas 100% algodão, carregam mais atenção, presença e cuidado em todos os detalhes.",
+		"linkYoutube": null,
+		"catalogo": [
+			{
+				"nomeProduto": "Ecobag Baru",
+				"tipoProduto": "Artesanato, Acessório e Decoração ",
+				"valor": 45.0,
+				"descricao": "Ecobag 100% algodão cru, pintura manual.",
+				"detalhes": "Medida 45cm x 45cm alça 70 cm",
+				"foto": "https://imgur.com/IuAd2jS.png"
+			},
+			{
+				"nomeProduto": "Ecobag Jatobá",
+				"tipoProduto": "Artesanato, Acessório e Decoração ",
+				"valor": 45.0,
+				"descricao": "Ecobag 100% algodão cru, pintura manual.",
+				"detalhes": "Medida 45cm x 45cm alça 70 cm",
+				"foto": "https://imgur.com/eczbKvR.png"
+			},
+			{
+				"nomeProduto": "Ecobag Guamirim",
+				"tipoProduto": "Artesanato, Acessório e Decoração ",
+				"valor": "45",
+				"descricao": "Ecobag 100% algodão cru, pintura manual.",
+				"detalhes": "Medida 45cm x 45cm alça 70 cm",
+				"foto": "https://imgur.com/yCQqUJ7.png"
+			},
+			{
+				"nomeProduto": "Ecobag Araticum",
+				"tipoProduto": "Artesanato, Acessório e Decoração ",
+				"valor": "45",
+				"descricao": "Ecobag 100% algodão cru, pintura manual.",
+				"detalhes": "Medida 45cm x 45cm alça 70 cm",
+				"foto": "https://imgur.com/xc7Dv02.png"
+			},
+			{
+				"nomeProduto": "Ecobag Pequi",
+				"tipoProduto": "Artesanato, Acessório e Decoração ",
+				"valor": "45",
+				"descricao": "Ecobag 100% algodão cru, pintura manual.",
+				"detalhes": "Medida 45cm x 45cm alça 70 cm",
+				"foto": "https://imgur.com/IRQLT9X.png"
+			},
+			{
+				"nomeProduto": "Ecobag Aroeira",
+				"tipoProduto": "Artesanato, Acessório e Decoração ",
+				"valor": 45.0,
+				"descricao": "Ecobag 100% algodão cru, pintura manual.",
+				"detalhes": "Medida 45cm x 45cm alça 70 cm",
+				"foto": "https://imgur.com/JPvzbpQ.png"
+			},
+			{
+				"nomeProduto": "Ecobag Mandacaru",
+				"tipoProduto": "Artesanato, Acessório e Decoração ",
+				"valor": 45.0,
+				"descricao": "Ecobag 100% algodão cru, pintura manual.",
+				"detalhes": "Medida 45cm x 45cm alça 70 cm",
+				"foto": "https://imgur.com/LuzayjX.png"
+			},
+			{
+				"nomeProduto": "Ecobag Cajá-Manga",
+				"tipoProduto": "Artesanato, Acessório e Decoração ",
+				"valor": 45.0,
+				"descricao": "Ecobag 100% algodão cru, pintura manual.",
+				"detalhes": "Medida 45cm x 45cm alça 70 cm",
+				"foto": "https://imgur.com/9MOVRpq.png"
+			},
+			{
+				"nomeProduto": "Ecobag Catiguá",
+				"tipoProduto": "Artesanato, Acessório e Decoração ",
+				"valor": "45",
+				"descricao": "Ecobag 100% algodão cru, pintura manual.",
+				"detalhes": "Medida 45cm x 38cm alça 50 cm",
+				"foto": "https://imgur.com/JQGzRkJ.png"
+			},
+			{
+				"nomeProduto": "Ecobag Açaí",
+				"tipoProduto": "Artesanato, Acessório e Decoração ",
+				"valor": "45",
+				"descricao": "Ecobag 100% algodão cru, pintura manual.",
+				"detalhes": "Medida 45cm x 38cm alça 50 cm",
+				"foto": "https://imgur.com/CuFlCyG.png"
+			}
+		],
+		"vendedor": "casadealicia",
+		"formasDePagamento": "Dinheiro, deposito e transferência bancaria"
+	},
+	"Stand23": {
+		"nome": "RAJA STYLE",
+		"linkMainArt": "https://imgur.com/WugbmqU.png",
+		"linkLogo": "https://imgur.com/T9hZict.png",
+		"site": null,
+		"instagram": "https://www.instagram.com/rajastylebsb/",
+		"celular": "https://api.whatsapp.com/send?phone=5537120228382",
+		"tipoProduto": "",
+		"descricao": "A RAJA é uma marca de acessórios criada em Brasília por Janaina Barreto e Rafael Nascimento. De uma junção de ideias criativas, muito amor e determinaçcão em fazer a diferença no mercado de acessórios, em Agosto de 2015 naceseu a RAJA STYLE.\nNossas peças são cuidadosamente feitas (em sua grande maioria manualmente)com metal, banho de prata, prata, pedras naturais e couro sintético.\nAcreditamos no poder que os acessórios possuem de agregar valor à personalidade dxs nossxs clientes, bem como influenciar na auto estima, estilo e bem estar. \nA Raja é uma marca de acessórios com personalidade, para todos os gêneros, diversos estilos, bom gosto e qualidade.\nEm 2019 tomamos a ousada decisão de morar e empreender na Letônia mas continuamos presentes no Brasil nas duas unidades da loja colaborativa Endossa em Brasília (306 Sul e 310 Norte).\nAo adquirir peças RAJA você não só garante peças únicas e estilosas mas também apoia o sonho de um casal empreendedor.\nApoie marcas locais e produtos nacionais. Compre de quem faz!\n",
+		"linkYoutube": null,
+		"catalogo": [
+			{
+				"nomeProduto": "Escapulário  ",
+				"tipoProduto": "Acessório (Colar)",
+				"valor": 62.0,
+				"descricao": "Escapulário de olho grego e Mão de Hamsá porque nem só o alcóol em gel protege! O escapulário tem pingentes móveis para ser usado com ambos na parte da frente ou um na frente e outro atrás!",
+				"detalhes": "Colar feito a mão banhado a prata c/ acabamento envelhecido",
+				"foto": "https://imgur.com/iz3F1x7.png"
+			},
+			{
+				"nomeProduto": "Brinco Argola Bolas",
+				"tipoProduto": "Acessório (Brinco)",
+				"valor": 98.0,
+				"descricao": "Brinco nada básico para as afrontosas de plantão que não gostam de passar despercebidas! ",
+				"detalhes": "Brinco argola grande de abs com banho de níquel",
+				"foto": "https://imgur.com/l7PqAfo.png"
+			},
+			{
+				"nomeProduto": "Brinco Quarto Rosa",
+				"tipoProduto": "Acessório (Brinco)",
+				"valor": "68.00",
+				"descricao": "Pra quem acredita nas propriedades curativas, o quartzo rosa é a pedra do amor e da paz que possibilita a cura interior, repele energias negativas e potencializa as vibrações do amor",
+				"detalhes": "Brinco de metal com banho de prata e quartzo rosa",
+				"foto": "https://imgur.com/MjXDe1W.png"
+			},
+			{
+				"nomeProduto": "Boné RAJA",
+				"tipoProduto": "Acessório (Boné)",
+				"valor": "65.00",
+				"descricao": "Boné preto snap bordado branco. Para saber mais detalhes a respeito das demais peças da foto, entre em contato com a gente pelo Whatsapp ou direct (instagram).",
+				"detalhes": "Boné Snap Preto com bordado branco",
+				"foto": "https://imgur.com/jTdcks5.png"
+			},
+			{
+				"nomeProduto": "Brinco Quartzo Verde Lapidado",
+				"tipoProduto": "Acessório (Brinco)",
+				"valor": "78.00",
+				"descricao": "O quartzo verde é o cristal da saúde e vitalidade.Uma pedra poderosa conhecida pelo poder de cura e por promover o equilíbrio mental e espiritual além de transformar energias negativas em positivas e ajudar a atrair a prosperidade",
+				"detalhes": "Brinco longo de metal banhado a prata com pedras naturais (quartzo verde).",
+				"foto": "https://imgur.com/nFgA1R2.png"
+			},
+			{
+				"nomeProduto": "Colar Triplo Ametista",
+				"tipoProduto": "Acessório (Colar)",
+				"valor": 149.0,
+				"descricao": "Colar de ametista ideal para quem sofre de problemas de ansiedade, insonia ou problemas emocionais. A Ametista é uma poderosa pedra de proteção e elevação espiritual. Suas energias purificam os ambientes e dissipam energias negativas",
+				"detalhes": "Colar banhado a prata com pedra natural",
+				"foto": "https://imgur.com/9844to1.png"
+			},
+			{
+				"nomeProduto": "Pulseiras de couro sintético",
+				"tipoProduto": "Acessório (pulseira)",
+				"valor": 72.0,
+				"descricao": "Pulseira de couro sintética com detalhe vermelho para sair da monotonia. Peças produzidas por mãos brasileiras. Obs: Para mais detalhes a respeito dos outros produtos da foto, entre em contato com a gente pelo Whatsapp ou Direct.",
+				"detalhes": "Pulseiras de couro sintético com fecho de imã magnético de metal.",
+				"foto": "https://imgur.com/G24udFX.png"
+			},
+			{
+				"nomeProduto": "Pulseira Pedras Naturais",
+				"tipoProduto": "Acessório (pulseira)",
+				"valor": 129.0,
+				"descricao": "Pulseiras de pedras naturais (onix, pedra vulcânica e ágata negra) com prata, reguláveis e unissex. Ótima opção para fazer composição com pulseiras de couro ou usar junto com relógio. Peças produzidas manualmente por mãos brasileiras",
+				"detalhes": "Pulseira regulável de pedras naturais com prata 925",
+				"foto": "https://imgur.com/BvAOLOU.png"
+			},
+			{
+				"nomeProduto": "Anél Petit Pois",
+				"tipoProduto": "Acessório (Anél)",
+				"valor": "68.00",
+				"descricao": "Anel regulável de metal com banho de prata e acabamento envelhecido que foi o queridinho do ano! Casual, despojado e elegante ao mesmo tempo!  Feito manualmente por mãos brasileiras",
+				"detalhes": "Anel regulável de metal com banho de prata",
+				"foto": "https://imgur.com/jn4oCVH.png"
+			},
+			{
+				"nomeProduto": "Colar Patuá com Relicário",
+				"tipoProduto": "Acessório (colar)",
+				"valor": "68.00",
+				"descricao": "Colar de patuá com relicário, pra quem não abre mão de uma proteção extra mas prefere peças delicadas e românticas. Por ser um colar curto ele é um charme para usar com camisetas ou blusas com decote! Feito manualmente por mãos brasileiras",
+				"detalhes": "Colar curto de patuá com relicário de coração",
+				"foto": "https://imgur.com/1hjNFFy.png"
+			}
+		],
+		"vendedor": "RAJASTYLE1Janaina",
+		"formasDePagamento": "Cartão (Débito ou Crédito) ou transferência bancária"
+	},
+	"Stand24": {
+		"nome": "Nós Mercado Criativo",
+		"linkMainArt": "https://imgur.com/AoE7NdK.png",
+		"linkLogo": "https://imgur.com/G9YH3J1.png",
+		"site": "http://www.nosmercadocriativo.com.br/",
+		"instagram": "https://www.instagram.com/nos.mercadocriativo/",
+		"celular": "https://api.whatsapp.com/send?phone=5561985860414",
+		"tipoProduto": "",
+		"descricao": "\"Nós - uma união entre eu e você, em busca de objetivos comuns, força e união. Representa o entrelaçamento dos seres por meio do amor, da longevidade, da sabedoria, da felicidade e da criatividade num círculo sem início e sem fim. Juntos e com nossas marcas entrelaçadas por um único conceito, Nós.\" A Nós surgiu com o objetivo de oferecer aos designers, artistas, artesãos e empreendedores autorais a oportunidade de comercializarem seus produtos em um ponto comercial privilegiado, com gestão de vendas e marketing a um custo acessível. Fomentando a economia criativa e o desenvolvimento das marcas da cidade e também de outros estados, de forma a valorizar os criadores locais, mão de obra da cidade e do Brasil.\n\nAtualmente estão presentes em nossas lojas físicas as seguintes seguimentos:\n\nAcessórios\nAromas\nManualidades\ne Costura Criativa\nDecoração\nFotografia\nIlustração\nJardim\nJóias\nModa\nModa Infantil\nPapelaria\nPublicações\nQuitanda\n\nNa loja apresentamos ao público de Brasília produtos autorais e com identidade própria. Os consumidores têm à sua disposição diversas marcas voltadas ao design, à arte e ao artesanato. Produtos inovadores que interagem entre si e o público, preocupados com a sustentabilidade e com o  fazer à mão. Encontram em um só lugar uma variedade de marcas e produtos, dos mais diversos segmentos: Moda, Arte, Decoração, Acessórios, Papelaria, entre outros.",
+		"linkYoutube": null,
+		"catalogo": [
+			{
+				"nomeProduto": "Camiseta Arte Salva",
+				"tipoProduto": "Vestuário",
+				"valor": 138.0,
+				"descricao": "a camiseta foi produzida para auxiliar na minimização dos efeitos econômicos causados pela pandemia da covid-19, fortemente sentida por todos os setores e, não diferente, pela nós mercado criativo, loja colaborativa de brasília que cede espaço para inúmeros artistas locais que dependem desse espaço para garantirem o seu sustento.\n\n \na estampa foi criada e doada por uma dessas artistas, para que consigam arrecadar fundos para se manterem abertos e continuarem com o belíssimo trabalho de fomento da cultura da nossa capital.\n \n100% dos lucros dessa camiseta serão doados para a nós.\n ",
+				"detalhes": "Camiseta off com estampa. 100% algodão\n\ndimensões da camiseta (largura x comprimento):\n\npp - 47cm x 67cm\n\np - 49cm x 69cm\n\nm - 51cm x 71cm\n\ng - 53cm x 73cm\n\ngg - 55cm x 75cm\n\nxg - 61cm x 79cm\n\n1xg - 63cm x 81cm\n\n2xg - 65cm x 83cm\n\n3xg - 69cm x 87cm\n\nos tamanhos xg, 1xg, 2xg e 3xg são feitos sob demanda. o prazo para envio ou retirada na loja desses tamanhos é de 7 dias após a compra. ",
+				"foto": "https://imgur.com/6m9It95.png"
+			},
+			{
+				"nomeProduto": "Lambe Arte Salva Azul",
+				"tipoProduto": "Decoração",
+				"valor": 25.0,
+				"descricao": "Cartaz tipo Lambe\nImpresso manualmente em serigrafia\nduas cores azul e vermelho.",
+				"detalhes": "Sobre papel offset 50gr2\n48 x 33cm .",
+				"foto": "https://imgur.com/av6IfTs.png"
+			},
+			{
+				"nomeProduto": "Lambe Arte Salva Rosa",
+				"tipoProduto": "Decoração",
+				"valor": "25",
+				"descricao": "Cartaz tipo Lambe\nImpresso manualmente em serigrafia\nduas cores verde e rosa.",
+				"detalhes": "Sobre papel offset 50gr2\n48 x 33cm ",
+				"foto": "https://imgur.com/dOWAQWU.png"
+			},
+			{
+				"nomeProduto": "Lambe Arte Salva Verde",
+				"tipoProduto": "Decoração",
+				"valor": "25",
+				"descricao": "Cartaz tipo Lambe\nImpresso manualmente em serigrafia\nduas cores azul e vermelho.",
+				"detalhes": "Sobre papel offset 50gr2\n48 x 33cm ",
+				"foto": "https://imgur.com/qxloiO3.png"
+			},
+			{
+				"nomeProduto": "Difusor de Ambiente - Eixo Verde ",
+				"tipoProduto": "Decoração/Perfumaria",
+				"valor": "75.9",
+				"descricao": "Eixo verde aroma exclusivo, apresenta o frescor do capim-limão, levemente envolvido pela terra molhada.\nModo de uso: Retire o lacre coloque as varetas e vire-as periodicamente para potencializar a aromatização. ",
+				"detalhes": "Composição: Álcool de milho, água deonizada, essência a base de óleo. ",
+				"foto": "https://imgur.com/5vbW0rw.png"
+			},
+			{
+				"nomeProduto": "Home Spray - Eixo Verde - 240ml",
+				"tipoProduto": "Decoração/Perfumaria",
+				"valor": 45.9,
+				"descricao": "Eixo verde aroma exclusivo, apresenta o frescor do capim-limão, levemente envolvido pela terra molhada.\nModo de Uso: Borrifar pelo ambiente, sobre cortinas, almofadas e estofados. A periodicidade aumenta sua eficácia.",
+				"detalhes": "Álcool de milho, água deonizada, essência a base de óleo ",
+				"foto": "https://imgur.com/5Gry4Xq.png"
+			},
+			{
+				"nomeProduto": "Refil Difusor - Eixo Verde - 350ml",
+				"tipoProduto": "Decoração/Perfumaria",
+				"valor": 55.9,
+				"descricao": "Eixo verde aroma exclusivo, apresenta o frescor do capim-limão, levemente envolvido pela terra molhada.\nModo de Uso: Desenroscar a tampa/lacre, despeje o líquido em recipiente de vidro e coloque as varetas de madeira. Vire-as periodicamente para potencializar a aromatização.",
+				"detalhes": "Composição: Álcool de milho, água deonizada, essência a base de óleo ",
+				"foto": "https://imgur.com/9B9Elmf.png"
+			},
+			{
+				"nomeProduto": "Mini Difusor de Ambiente - Eixo Verde",
+				"tipoProduto": "Decoração/Perfumaria",
+				"valor": 35.9,
+				"descricao": "Eixo verde aroma exclusivo, apresenta o frescor do capim-limão, levemente envolvido pela terra molhada.\nModo de uso: Retire o lacre coloque as varetas e vire-as periodicamente para potencializar a aromatização.",
+				"detalhes": "Composição: Álcool de milho, água deonizada, essência a base de óleo ",
+				"foto": "https://imgur.com/OkZvyvQ.png"
+			},
+			{
+				"nomeProduto": "Sacola de Feira P",
+				"tipoProduto": "Acessórios",
+				"valor": "39.9",
+				"descricao": "Material da sacola: Nylon;\nModelo: Sanfonada;\nMaterial da alça: Arame encapado borracha.",
+				"detalhes": "Medidas: 23 cm de altura x 30 cm de comprimento x 13 cm de largura; \nCor: Sortido;",
+				"foto": "https://imgur.com/UyUG0eE.png"
+			},
+			{
+				"nomeProduto": "Sacola de Feira G",
+				"tipoProduto": "Acessórios",
+				"valor": "59.9",
+				"descricao": "Material da sacola: Nylon;\nModelo: Sanfonada;\nMaterial da alça: Arame encapado borracha.",
+				"detalhes": "Medidas: 40 cm de altura x 45 cm de comprimento x  21 cm de largura; \nCor: Sortido.",
+				"foto": "https://imgur.com/E9a3Cas.png"
+			}
+		],
+		"vendedor": "NosMercadoCriativoBabi",
+		"formasDePagamento": "Cartão de Crédito, Cartão de Débito, Transferência Bancária , Depósito."
+	},
+	"Stand25": {
+		"nome": "Nave",
+		"linkMainArt": "https://imgur.com/I79pjZK.png",
+		"linkLogo": "https://imgur.com/7EylP8s.png",
+		"site": "https://www.pensenave.com/",
+		"instagram": "https://www.instagram.com/pense_nave/",
+		"celular": "https://api.whatsapp.com/send?phone=556191516548",
+		"tipoProduto": "",
+		"descricao": "Queremos um mundo justo, com respeito e responsabilidade entre seres humanos e outras formas de vida. Nosso planeta Terra é uma nave e nós somos sua tripulação. Navegamos juntos neste pequeno barco. Nossos produtos buscam estimular as pessoas a olharem para a vida pela perspectiva cósmica.",
+		"linkYoutube": null,
+		"catalogo": [
+			{
+				"nomeProduto": "Sol",
+				"tipoProduto": "Vestuário",
+				"valor": 96.0,
+				"descricao": "Domingo – Sunday\nOnipotente e eterno, é a energia em estado puro. Essa luz não traz apenas o calor fundamental à vida, traz também o dia, resgatando o primata humano das trevas geladas da noite.\n\nO desenho da estampa remete aos raios do Sol dirigidos à Terra. A extremidade inferior é côncava, simulando a superfície terrestre.\n\nCamiseta com corte largo e gola canoa, uma ótima maneira de receber o calor do deus Sol neste verão.\n\nPré-venda promocional com 20% de desconto até 10/12. As peças serão enviadas no início de dezembro.  ",
+				"detalhes": "Tecido 100% algodão orgânico\nConfeccionada artesanalmente em Brasília\nLinha ecológica premium fio 30.1 da Menegotti\nCertificação BCI (Better Cotton Initiative). \nModelagem larga confortável.\nEstampas com design exclusivo Nave. Serigrafadas em cores vivas com alta fixação e durabilidade.",
+				"foto": "https://imgur.com/YOiMSzc.png"
+			},
+			{
+				"nomeProduto": "Mercúrio",
+				"tipoProduto": "Vestuário",
+				"valor": 88.0,
+				"descricao": "Miércoles – Quarta\nDeus dos viajantes, é a luz mais rápida no céu. Apesar de sua translação ser a mais rápida do Sistema Solar, seu dia dura quase seis meses, fazendo com que a temperatura de sua superfície seja de 470ºC e -170ºC para cada face.\n\nA camiseta é dividida em quente e frio, simbolizando o planeta de maior contraste do Sistema Solar.\n\n  Pré-venda promocional com 20% de desconto até 10/12. As peças serão enviadas no início de dezembro.  ",
+				"detalhes": "Tecido 100% algodão orgânico\nConfeccionada artesanalmente em Brasília\nLinha ecológica premium fio 30.1 da Menegotti\nCertificação BCI (Better Cotton Initiative). \nEstampas com design exclusivo Nave. Serigrafadas em cores vivas com alta fixação e durabilidade.",
+				"foto": "https://imgur.com/b9wt9JI.png"
+			},
+			{
+				"nomeProduto": "Vênus",
+				"tipoProduto": "Vestuário",
+				"valor": "59",
+				"descricao": "Viernes – Sexta\nDeusa do amor e da beleza, é a luz mais brilhante no céu. Aparece sempre próximo ao horizonte antes da alvorada ou depois do crepúsculo. Modelo cropped costurado em tecido cinza mescla, excelente para se apreciar a luz de Vênus ao pôr do sol.\n\n  Pré-venda promocional com 20% de desconto até 10/12. As peças serão enviadas no início de dezembro.  ",
+				"detalhes": "Tecido 100% algodão orgânico, malha penteada premium fio 30.1 da Menegotti, com certificação BCI (Better Cotton Initiative)\nConfeccionada artesanalmente em Brasília\nModelagem cropped com excelente caimento\nEstampas com design exclusivo Nave. Serigrafadas com alta fixação e durabilidade",
+				"foto": "https://imgur.com/skHzuTv.png"
+			},
+			{
+				"nomeProduto": "Lua",
+				"tipoProduto": "Vestuário",
+				"valor": "96",
+				"descricao": "Lunes – Monday\nEla estava lá desde quando descemos das árvores. É o farol da noite que acalenta os primatas humanos na escuridão. Uma deusa poderosa e indecifrável, é a única luz que muda de forma. Seus ciclos definiram nossos meses.\n\nNesta estampa, o artista Pomb sintetiza o olhar de várias culturas em relação à Lua: um ser celestial de cuidado e sabedoria que além de guiar nosso planeta na noite, mistura suas águas com o movimento das marés. Buscando aliar a ilustração detalhada com o minimalismo da Nave, na frente da camiseta aparecem a mão da Lua e o ciclo da Terra.\n\n  Pré-venda promocional com 20% de desconto até 10/12. As peças serão enviadas no início de dezembro.  \n\n",
+				"detalhes": "Tecido 100% algodão orgânico, malha penteada premium fio 30.1 da Menegotti, com certificação BCI (Better Cotton Initiative). \nProduzido artesanalmente em Brasília\nModelagem slim com conforto e excelente caimento.\nEstampas com design exclusivo Nave. Serigrafadas em cores vivas com alta fixação e durabilidade.",
+				"foto": "https://imgur.com/DSN1J0T.png"
+			},
+			{
+				"nomeProduto": "Marte",
+				"tipoProduto": "Vestuário",
+				"valor": "104",
+				"descricao": "Martes – Terça\nÚnica luz vermelha no céu. Por esta razão, os humanos a traduziram como o deus da guerra, representando-o com uma lança. Provavelmente será o primeiro planeta colonizado por nós. Haverá guerra entre terráqueos e marcianos?\n\nA camiseta em manga comprida com capuz simboliza a rebeldia, e também uma vestimenta com um capacete, assim como o deus Marte era retratado.\n\n  Pré-venda promocional com 20% de desconto até 10/12. As peças serão enviadas no início de dezembro.  ",
+				"detalhes": "Tecido 100% algodão orgânico\nConfeccionada artesanalmente em Brasília\nMalha penteada premium fio 30.1 da Menegotti\nCertificação BCI (Better Cotton Initiative). \nModelagem reta com capuz e excelente caimento.\nEstampas com design exclusivo Nave. Serigrafadas em cores vivas com alta fixação e durabilidade.",
+				"foto": "https://imgur.com/zsdaaP2.png"
+			},
+			{
+				"nomeProduto": "Júpiter",
+				"tipoProduto": "Vestuário",
+				"valor": 88.0,
+				"descricao": "Jueves – Quinta\nDiversas culturas associaram essa luz forte e vagarosa como sendo o Deus dos deuses. Impiedoso e temperamental, essa entidade era tida como o senhor dos raios e trovões, atirando-os contra a Terra para castigar a humanidade.\n\n  Pré-venda promocional com 20% de desconto até 10/12. As peças serão enviadas no início de dezembro.  ",
+				"detalhes": "Tecido 100% algodão orgânico\nConfeccionada artesanalmente em Brasília\nMalha penteada premium fio 30.1 da Menegotti\nCertificação BCI (Better Cotton Initiative). \nModelagem slim com conforto e excelente caimento.\nEstampas com design exclusivo Nave. Serigrafadas em cores vivas com alta fixação e durabilidade.",
+				"foto": "https://imgur.com/0xMCVcW.png"
+			},
+			{
+				"nomeProduto": "Saturno",
+				"tipoProduto": "Vestuário",
+				"valor": 88.0,
+				"descricao": "Sábado – Saturday\nDeus do tempo e da renovação. É a luz com o trajeto mais lento no céu, por isso os sapiens a relacionaram com os ciclos da agricultura. A foice é o seu símbolo, ferramenta base do apogeu de nossa civilização.\n\n Pré-venda promocional com 20% de desconto até 10/12. As peças serão enviadas no início de dezembro.  ",
+				"detalhes": "Tecido 100% algodão orgânico\nConfeccionada artesanalmente em Brasília\nMalha penteada premium fio 30.1 da Menegotti\nCertificação BCI (Better Cotton Initiative). \nModelagem slim com conforto e excelente caimento.\nEstampas com design exclusivo Nave. Serigrafadas em cores vivas com alta fixação e durabilidade.",
+				"foto": "https://imgur.com/y431C0a.png"
+			},
+			{
+				"nomeProduto": "Luzes no Céu",
+				"tipoProduto": "Vestuário",
+				"valor": 92.0,
+				"descricao": "Luzes no céu – Branca\nNosso céu possui sete luzes especiais que movem-se como se possuíssem vida própria. Os humanos foram os únicos animais a lerem tais movimentos. E ficou óbvio que essas luzes eram poderosas divindades olhando para nós.\n\nAs sete luzes mais importantes do céu e definidoras dos nossos dias da semana:\nSol - Mercúrio - Vênus - Lua - Marte - Júpiter - Saturno\n\nPré-venda promocional com 20% de desconto até 10/12. As peças serão enviadas no início de dezembro.  ",
+				"detalhes": "Tecido 100% algodão orgânico\nConfeccionada artesanalmente em Brasília\nMalha penteada premium fio 30.1 da Menegotti\nCertificação BCI (Better Cotton Initiative). \nModelagem slim com conforto e excelente caimento.\nEstampas com design exclusivo Nave. Serigrafadas em cores vivas com alta fixação e durabilidade.",
+				"foto": "https://imgur.com/ovLQYvF.png"
+			},
+			{
+				"nomeProduto": "Luzes no céu – Preta",
+				"tipoProduto": "Vestuário",
+				"valor": "92",
+				"descricao": "Luzes no céu – Preta\nNosso céu possui sete luzes especiais que movem-se como se possuíssem vida própria. Os humanos foram os únicos animais a lerem tais movimentos. E ficou óbvio que essas luzes eram poderosas divindades olhando para nós.\n\nAs sete luzes mais importantes do céu e definidoras dos nossos dias da semana:\nSol - Mercúrio - Vênus - Lua - Marte - Júpiter - Saturno\n\n Pré-venda promocional com 20% de desconto até 10/12. As peças serão enviadas no início de dezembro.  ",
+				"detalhes": "Tecido 100% algodão orgânico\nConfeccionada artesanalmente em Brasília\nMalha penteada premium fio 30.1 da Menegotti\nCertificação BCI (Better Cotton Initiative). \nModelagem slim com conforto e excelente caimento.\nEstampas com design exclusivo Nave. Serigrafadas em cores vivas com alta fixação e durabilidade.",
+				"foto": "https://imgur.com/kn0HxiP.png"
+			},
+			{
+				"nomeProduto": "Nave mãe",
+				"tipoProduto": "Vestuário",
+				"valor": "80",
+				"descricao": "Você pode viajar para Marte ou outros planetas, mas a Terra sempre será sua Nave Mãe. Aqui você encontrará conforto, segurança e companhia. O planeta azul e seu distinto satélite são sua casa, mas nada lhe impede de usar o poder de sua mente para atravessar o cosmos inteiro, imaginando o resto de todo o universo.",
+				"detalhes": "Tecido 100% algodão orgânico\nConfeccionada artesanalmente em Brasília\nMalha penteada premium fio 30.1 da Menegotti\nCertificação BCI (Better Cotton Initiative). \nModelagem slim com conforto e excelente caimento.\nEstampas com design exclusivo Nave. Serigrafadas em cores vivas com alta fixação e durabilidade.",
+				"foto": "https://imgur.com/82RG8Gm.png"
+			}
+		],
+		"vendedor": "Nave1Lucas",
+		"formasDePagamento": "Crédito, débito e  Boleto via Pagseguro, Transferência bancária por contato via Wzapp"
+	}
+}

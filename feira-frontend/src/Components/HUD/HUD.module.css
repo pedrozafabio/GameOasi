@@ -1,0 +1,217 @@
+.root-div {
+    height: 20%;
+    position: absolute;
+    width: 100%;
+    z-index: 99;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    pointer-events: none;
+}
+
+.root-div-children {
+    width: 100%;
+    height: 97%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;    
+}
+
+.root-user-image{
+    width: 8%;
+    height: 80%;
+    pointer-events: all
+}
+
+.user-image{
+    position: relative;
+    margin-left: 3%;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(rgba(234,94,191), rgba(146,68,198));    
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-bottom: 6px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.avatar{
+    width: 95%;
+    height: 95%;
+    border-radius: 10px;
+}
+
+.user-config-button{
+    position: absolute;
+    top: 6px;
+    left: 2px;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.menuContainer {
+    width: 50%;
+    height: 100%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    visibility: hidden; 
+}
+
+.buttons-div{
+    height: 80%;
+    width: 25%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;    
+}
+
+.leftContainer {
+    width: 25%;
+    height: 40%;
+    background-color:rgba(29,29,29);
+    border-radius: 10px 0 0 10px;
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+    border-bottom: 6px solid black;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.nivelContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Roboto';
+}
+
+.nivelLabel{
+    font-size: 12px;
+}
+
+.number{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.number2{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.sliderContainer {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.slider {
+    -webkit-appearance: none;
+    overflow: hidden;
+    width: 110px;
+    background-color: rgba(64,64,64);
+    border-radius: 10px;
+    border-top: 2px solid black;    
+}
+
+.progressContainer{
+    position: absolute;
+    width: 100px;
+    height: 30px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-right: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.slider::-webkit-slider-runnable-track {
+    -webkit-appearance: none;
+    height: 25px;
+}
+    
+.slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    height: 0px;
+    width: 0px;    
+    box-shadow: -80px 0 0 80px rgba(146,68,198);   
+}
+
+.center-container{
+    overflow: hidden;
+    width: 32%;
+    height: 55%;
+    border-radius: 10px;
+    background-color: rgba(29,29,29);
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-bottom: 6px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.centerDescription {
+    width: 55%;
+    height: 100%;
+    background-color: rgba(29,29,29);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    font-family: 'Roboto';
+}
+
+.center-container img {
+    width: 30%;
+    height: 100%;
+    border-radius: 10px 0px 0px 10px;
+    mask-image: linear-gradient(to left, transparent, rgba(29,29,29) );
+}
+
+.center-container-button {
+    width: 15%;
+    height: 100%;
+    background-color: rgba(29,29,29);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;    
+}
+
+.value{
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.rightContainer{
+    width: 25%;
+    height: 40%;
+    background-color: rgba(29,29,29);
+    border-radius: 0px 10px 10px 0px;
+    border-top: 2px solid black;
+    border-right: 2px solid black;
+    border-bottom: 6px solid black;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;    
+    font-family: 'Roboto';
+
+}

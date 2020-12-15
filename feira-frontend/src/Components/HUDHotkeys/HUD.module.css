@@ -1,0 +1,16 @@
+.root-div {
+    top: 88%;
+    left: 0.2%;
+    position: absolute;
+    z-index: 99;
+   
+    font-family: monospace;
+}
+
+.hotkeys-div{
+    display: flex;
+    align-items: center;
+}
+.hint{
+    background-color: black;
+}

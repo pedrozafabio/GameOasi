@@ -1,0 +1,163 @@
+.container-main {
+    height: 100%;
+    width: 100%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container-header {
+    height: 35%;
+    width: 100%;
+    position: relative;
+}
+
+.container-header-content {
+   position: relative;
+   width: 100%;
+   height: 100%;
+   display: flex;
+   flex-direction: column;
+   align-items: flex-start;
+}
+
+.container-body {
+    height: 65%;
+    width: 95%;
+    display: flex;
+    flex-direction: column;
+}
+
+.card-background{
+    position: absolute;   
+    width: 100%;
+    height: 100%;   
+    background-size: 100% 100%;
+    
+    mask-image: linear-gradient(to top, transparent, rgba(29,29,29));
+ }
+
+ .container-infos{
+     height: 70%;
+     width: 100%;
+     display: flex;
+
+ }
+
+ .container-links{
+    align-items: center;
+   height: 30%;
+   width: 100%;
+   display: flex;
+
+}
+
+ .container-logo{
+     width: 20%;
+     height: 100%;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+ }
+
+ .title{
+    font-family: Space Mono;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+ }
+
+ .subtitle{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+ }
+
+ .container-logo img{
+     height: 95%;
+     clip-path: circle();
+ }
+
+ .container-title{
+    width: 70%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
+}
+
+.container-title > *{
+    padding-left: 10px;
+}
+
+ 
+
+.container-links > * {
+    margin-left: 10px;
+    padding: 10px;
+}
+
+.description{
+    padding-top: 20px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    text-align: left;
+}
+
+.p{
+    padding-top: 20px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    text-align: left;
+    display: flex;
+    align-items: center;
+
+}
+
+.p > * {
+    padding-right: 5px;
+}
+
+.products-title{
+    padding-top: 20px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: left;
+}
+
+.products-list{
+    padding-top: 20px;
+    display: flex;    
+}
+
+.StandContent{
+    display: grid;
+    grid-template-columns:  70% 30%;
+    padding: 1% 1% 1% 1%;
+}
+
+.StandInfo{
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+
+.StandVideo{
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+
+.InfoContainer{
+    display: flex;
+    flex-direction: column;
+    justify-self: start;
+    align-items: flex-start;
+}

@@ -1,0 +1,59 @@
+{
+  "name": "three-jsbase",
+  "version": "0.0.1",
+  "description": "ThreeJSBase",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "scripts": {
+    "dev": "concurrently -k \"tsc -w\" \"nodemon ./server/server.js\"",
+    "start": "tsc && node server/server.js",
+    "build": "tsc && webpack --progress && ncp entry.js ../feira-frontend/public/entry.js --stopOnErr",
+    "build_mac": "tsc && webpack --progress && ncp entry.js ..\\feira-frontend\\public\\entry.js",
+    "clean": "tsc --build --clean",
+    "watch": "npm-watch build",
+    "watch_mac": "npm-watch build_mac"
+  },
+  "watch": {
+    "build": {
+      "patterns": [
+        "src"
+      ],
+      "extensions": "js,ts"
+    },
+    "build_mac": {
+      "patterns": [
+        "src"
+      ],
+      "extensions": "js,ts"
+    }
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.14",
+    "browser-resolve": "^1.11.3",
+    "concurrently": "^5.3.0",
+    "esmify": "^2.1.1",
+    "nodemon": "^2.0.4",
+    "typescript": "^3.2.2",
+    "uuid": "^8.3.0",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  },
+  "dependencies": {
+    "@types/dat.gui": "^0.7.5",
+    "axios": "^0.21.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "mediaelement": "^4.2.16",
+    "ncp": "^2.0.0",
+    "npm-watch": "^0.7.0",
+    "react": "^16.13.1",
+    "react-redux": "^7.2.1",
+    "redux": "^4.0.5",
+    "simple-peer": "^9.7.2",
+    "three": "^0.118.3",
+    "typescript": "^3.2.2"
+  }
+}

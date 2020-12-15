@@ -1,0 +1,32 @@
+.container {
+   width:100%;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   
+   text-align: left;  
+   font-family: Roboto;
+   font-style: normal;
+   font-weight: normal;
+   line-height: 140%;
+}
+
+.container img {
+   width: 100%;
+}
+
+.container-child {
+   width: 90%;
+}
+
+.subtitle{
+   font-family: Space Mono;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 22px;
+   line-height: 120%;
+}
+
+.left25 {
+   padding-left: 25px;
+}

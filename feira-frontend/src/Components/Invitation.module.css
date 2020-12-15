@@ -1,0 +1,9 @@
+.mainbody{
+    z-index: 100;
+    position: fixed;
+    top: 7%;
+    left: 15%;
+    background-color: #4581da41;
+    width: 75%;
+    height: 10%;
+}

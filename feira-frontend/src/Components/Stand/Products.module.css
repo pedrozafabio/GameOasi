@@ -1,0 +1,7 @@
+.ProductsGrid{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-auto-flow: row;
+    width: 100%;
+}
+

@@ -1,0 +1,249 @@
+<html>
+
+<head>
+    <title>Menu</title>
+    <!-- <link rel="stylesheet" href="test.css"> -->
+    <script type="text/javascript"
+			src="https://cdnjs.cloudflare.com/ajax/libs/systemjs/0.20.13/system.js">
+	</script>
+	<script type="text/javascript" src="build/photon/Photon-Javascript_SDK.js"></script>
+	<script>var exports = {};</script>
+
+    <link href="styles/main.css" rel="stylesheet" type="text/css">
+    
+    <script src="https://kit.fontawesome.com/6aa1ba2337.js" crossorigin="anonymous"></script>
+    <script src="node_modules/three/build/three.js" crossorigin="anonymous"></script>
+
+    <script src="node_modules/three.proton.js/build/three.proton.js" crossorigin="anonymous"></script>
+
+</head>
+
+<body>
+    <div id="scene-container">
+    </div>
+    <!-- <div class="main">
+
+        <div class="btngroup2 invisible" id="popupgroup">
+            <div class="smallButton normal" id="prev"><i class="fa fa-arrow-left"></i></div>
+            <div class="button normal" id="p1"></div>
+            <div class="button normal" id="p2"></div>
+            <div class="button normal" id="p3"></div>
+            <div class="button normal" id="p4"></div>
+            <div class="button normal" id="p5"></div>
+            <div class="smallButton normal" id="next"><i class="fa fa-arrow-right"></i></div>
+
+
+        </div>
+        <div class="btngroup" id="maingroup">
+
+            <div class="button normal" id="hair" data-tooltip="Hair"><i class="fa fa-graduation-cap"></i></div>
+            <div class="button normal" id="shirt" data-tooltip="Shirt"><i class="fa fa-user-secret"></i></div>
+            <div class="button normal" id="pants" data-tooltip="Pants"><i class="fa fa-magic"></i></div>
+            <div class="button normal" id="shoes" data-tooltip="Shoes"><i class="fa fa-paw"></i></div>
+            <div class="button normal" id="skin" data-tooltip="Skin"><i class="fa fa-male"></i></div>
+
+        </div>
+
+
+    </div> -->
+
+    <script>
+        // let buttonTypes = ['hair', 'shirt', 'pants' , 'shoes', 'skin'];
+
+        // let mainButtons = {};
+        // let popupButtons = {};
+
+        // let stylesheet = document.createElement('link');
+        // stylesheet.href = 'test.css';
+        // stylesheet.rel = 'stylesheet';
+        // document.head.appendChild(stylesheet);
+
+        // let main = document.createElement('div');
+        // main.className = 'main';
+
+        // let mainGroup = document.createElement('div');
+        // mainGroup.className = 'btngroup';
+        // mainGroup.id = 'maingroup';
+
+        // let popupGroup = document.createElement('div');
+        // popupGroup.className = 'btngroup2 invisible';
+        // popupGroup.id = 'popupgroup';        
+
+        // let prevButton = document.createElement('div');
+        // prevButton.id = 'prev';
+        // prevButton.className = 'smallButton normal';
+        // popupGroup.appendChild(prevButton);
+
+        // let iconPrev = document.createElement('i');
+        // iconPrev.className = 'fa fa-arrow-left';
+        // prevButton.appendChild(iconPrev);
+
+        // let nextButton = document.createElement('div');
+        // nextButton.id = 'next';
+        // nextButton.className = 'smallButton normal';
+
+        // let iconNext = document.createElement('i');
+        // iconNext.className = 'fa fa-arrow-right';
+        // nextButton.appendChild(iconNext);
+
+        // for(let i=0; i < 5; i++){
+        //     let buttonPopup = document.createElement('div');
+        //     let key = 'p'+(i+1);
+        //     buttonPopup.id = key;
+        //     buttonPopup.className = 'button normal';
+
+        //     popupGroup.appendChild(buttonPopup);
+
+        //     let button = document.createElement('div');
+        //     button.id = buttonTypes[i];
+        //     button.setAttribute("data-tooltip", buttonTypes[i].toUpperCase());
+        //     button.className = 'button normal';
+
+        //     let icon = document.createElement('i');
+        //     icon.className = 'fa fa-square';
+
+
+        //     popupButtons[key] = buttonPopup;
+        //     mainButtons[buttonTypes[i]] = button;
+
+        //     button.appendChild(icon);
+        //     mainGroup.appendChild(button);
+        // }
+
+        // popupGroup.appendChild(nextButton);
+        
+        // main.appendChild(popupGroup);
+        // main.appendChild(mainGroup);
+        // document.body.appendChild(main);
+
+        // let itemsLoaded=  {
+        // hair: [{id : -1, skinnedMesh: "mesh", texture : "", icon : ""},
+        // {id : 0, skinnedMesh: "mesh", texture : "", icon : ""},
+        // {id : 1, skinnedMesh: "mesh", texture : "", icon : ""},
+        // {id : 2, skinnedMesh: "mesh", texture : "", icon : ""},
+        // {id : 3, skinnedMesh: "mesh", texture : "", icon : ""},
+        // {id : 4, skinnedMesh: "mesh", texture : "", icon : ""}]
+        // };
+
+        // let popupOpen = popupGroup.className.includes(" visible");
+
+        // let menuSelected = null;
+
+        // console.log(mainButtons);
+        // console.log(popupButtons);
+
+        // let updateMenu = (id) => {
+
+        //     if(menuSelected === id){
+        //         mainButtons[id].className = "button normal"; 
+
+        //         menuSelected = null;
+        //         openMenu(id, false);
+        //         return;                
+        //     }
+
+        //     openMenu(id, true);
+
+        //     Object.keys(mainButtons).forEach(x => {                    
+        //             mainButtons[x].className = x === id ?  "button selected" :  "button normal";
+        //     })
+
+        //     menuSelected = id;
+        // }
+
+        // let updatePopupMenu = (id) => {
+        //     Object.keys(popupButtons).forEach(x => {                    
+        //             popupButtons[x].className = x === id ?  "button selected" :  "button normal";
+        //     })
+        // }
+
+
+        // let openMenu = (id, open) => {
+        //     console.log("opening menu " + id);
+
+        //     popupOpen = open;
+
+        //     populatePopupMenu('hair');
+        //     popupGroup.className = "btnGroup2 " + (popupOpen ? 'visible' : 'invisible');
+        // }
+
+        // let populatePopupMenu = (id, page) => {
+        //     let list = itemsLoaded[id];
+        //     let choosedId = 0;
+
+        //     let numberItems = list.length;   
+        //     let numberPages = Math.ceil(numberItems / 5);
+        //     let lastPageCount = numberItems%5;
+
+        //     let itemIndex = list.findIndex(x => x.id === choosedId);
+        //     let choosedPage = Math.ceil((itemIndex+1)/5);
+
+        //     if(page){
+        //         choosedPage = page;
+        //     }
+            
+        //     if(choosedPage === numberPages){
+        //         nextButton.className = "smallButton normal invisible";                
+        //     }else{
+        //         nextButton.className = "smallButton normal";                
+
+        //         nextButton.onclick = () => {
+        //             populatePopupMenu(id, choosedPage+1);
+        //         };
+        //     }
+
+        //     if(choosedPage === 1){
+        //         prevButton.className = "smallButton normal invisible";
+        //     }else{
+        //         prevButton.className = "smallButton normal";                
+        //         prevButton.onclick = () => {
+        //             populatePopupMenu(id, choosedPage-1);
+        //         };
+        //     }
+
+        //     let init = (choosedPage-1)*5; 
+        //     let final = choosedPage === numberPages ? (lastPageCount + init) : (init + 5);
+
+        //     for(let i=init; i < init + 5; i++){
+                
+        //         let key = "p"+((i%5)+1);
+
+        //         if(i < final){
+        //             popupButtons[key].innerHTML = list[i].id;
+        //         }else{
+        //             popupButtons[key].innerHTML = "";
+        //         }
+               
+        //         popupButtons[key].className = (i === itemIndex) ? "button selected" :  "button normal";
+        //     }
+
+        //     console.log("pages: " + numberPages);
+            
+            
+
+        // }
+
+        // Object.keys(popupButtons).forEach(x => { 
+        //         popupButtons[x].onclick = () => { 
+        //             updatePopupMenu(x);
+        //         }
+        //     }
+        // );
+
+        // Object.keys(mainButtons).forEach(x => { 
+        //         mainButtons[x].onclick = () => { 
+        //             updateMenu(x);
+        //         }
+        //     }
+        // );
+
+        
+    </script>
+</body>
+
+<footer>
+		<script src="src/main2.js" type="module"></script>
+
+</footer>
+
+</html>
